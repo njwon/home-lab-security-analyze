@@ -29,7 +29,8 @@
 - **규모**: 약 82,918건의 경보 로그 (`alerts.log`)
 - **형식**: Suricata fast.log 포맷 텍스트 (정규식으로 10개 필드 파싱)
 
-원본 로그는 용량과 보안상 이유로 레포에 포함하지 않았습니다. 자세한 설명은 [`data/README.md`](data/README.md)를 참고하세요.
+원본 로그는 용량과 보안상 이유로 레포에 포함하지 않았습니다.
+대신, 약 1000줄 정도의 샘플 데이터와 그를 가공한 샘플 CSV 파일을 넣었습니다.
 
 ## 방법론
 
@@ -82,8 +83,8 @@
 ## 실행 방법
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/njwon/home-lab-security-analyze.git
+cd home-lab-security-analyze
 pip install -r requirements.txt
 ```
 
