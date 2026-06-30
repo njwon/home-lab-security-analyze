@@ -68,10 +68,10 @@
 ### 시각화
 
 - `results/cluster_scatter.png` — PCA 2D 투영, 군집별 색상 분리
-- `results/silhouette_by_k.png` — k=3~8 실루엣 계수 비교
-- `results/cluster_heatmap.png` — 군집 × 피처 상대 강도 히트맵
-- `results/top_ports.png` — 가장 많이 노려진 포트 Top 15
-- `results/daily_trend.png` — 28일간 일별 공격 추이
+- `results/number_of_ips_per_cluster.png` — 군집별 ip 개수 비교
+- `results/attack_behavior_heatmap.png` — 군집 × 피처 상대 강도 히트맵
+- `results/most_targeted_ports.png` — 가장 많이 노려진 포트 Top 15
+- `results/daily_attack_trend.png` — 28일간 일별 공격 추이
 
 ## 한계 및 향후 과제
 
