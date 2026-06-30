@@ -7,7 +7,7 @@
 
 실제 홈랩(Proxmox + pfSense + Suricata)에서 28일간 수집한 약 8만 건의 IDS 경보 로그를, K-means로 **공격자 행동 유형 7개 군집**으로 자동 분류한 프로젝트입니다. (Silhouette Score 0.632)
 
-![cluster preview](results/공격자 행동 군집.png)
+![cluster preview](results/cluster_scatter.png)
 
 ## 목차
 - [개요](#개요)
