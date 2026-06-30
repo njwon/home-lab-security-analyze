@@ -7,4 +7,5 @@ __pycache__/
 # 원본 로그 / 민감 데이터
 data/*.log
 data/*.csv
+!data/sample*.log
 !data/sample*.csv

@@ -1,0 +1,1000 @@
+06/01/2026-04:01:06.785351  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 208.123.73.209:443 -> 192.168.45.3:23895
+06/01/2026-05:09:58.383046  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 195.250.20.4:39378 -> 192.168.45.3:22
+06/01/2026-05:10:12.268873  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.250.20.4:11494 -> 192.168.45.3:1433
+06/01/2026-05:10:12.397323  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.250.20.4:30510 -> 192.168.45.3:3306
+06/01/2026-05:10:13.297389  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.250.20.4:11494 -> 192.168.45.3:1433
+06/01/2026-05:10:13.425730  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.250.20.4:30510 -> 192.168.45.3:3306
+06/01/2026-05:10:14.321835  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.250.20.4:11494 -> 192.168.45.3:1433
+06/01/2026-05:10:14.449907  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.250.20.4:30510 -> 192.168.45.3:3306
+06/01/2026-05:10:15.345424  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.250.20.4:11494 -> 192.168.45.3:1433
+06/01/2026-05:10:15.473811  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.250.20.4:30510 -> 192.168.45.3:3306
+06/01/2026-05:10:16.369482  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.250.20.4:11494 -> 192.168.45.3:1433
+06/01/2026-05:10:16.498006  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.250.20.4:30510 -> 192.168.45.3:3306
+06/01/2026-05:10:18.458577  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.250.20.4:23664 -> 192.168.45.3:5432
+06/01/2026-05:10:19.502999  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.250.20.4:23664 -> 192.168.45.3:5432
+06/01/2026-05:10:20.526947  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.250.20.4:23664 -> 192.168.45.3:5432
+06/01/2026-05:10:21.551097  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.250.20.4:23664 -> 192.168.45.3:5432
+06/01/2026-05:10:22.575116  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.250.20.4:23664 -> 192.168.45.3:5432
+06/01/2026-05:25:20.015892  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 146.75.50.132:80 -> 192.168.45.3:23244
+06/01/2026-05:26:20.452378  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 151.101.66.132:80 -> 192.168.45.3:12952
+06/01/2026-05:45:02.312825  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 82.147.85.62:40300 -> 192.168.45.3:5432
+06/01/2026-05:50:52.205392  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 82.147.85.62:40300 -> 192.168.45.3:3306
+06/01/2026-07:37:37.270418  [**] [1:2500012:7638] ET COMPROMISED Known Compromised or Hostile Host Traffic group 7 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 210.16.103.246:11570 -> 192.168.45.3:11211
+06/01/2026-07:49:23.838768  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 213.209.159.66:47530 -> 192.168.45.3:5432
+06/01/2026-08:59:53.861749  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 221.132.29.17:55366 -> 192.168.45.3:1433
+06/01/2026-09:13:35.941401  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 20.127.220.33:57449 -> 192.168.45.3:1433
+06/01/2026-09:52:42.401415  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 34.21.188.244:45432 -> 192.168.45.3:3306
+06/01/2026-09:55:51.843691  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 112.95.164.53:56650 -> 192.168.45.3:1433
+06/01/2026-09:55:52.840731  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 112.95.164.53:56650 -> 192.168.45.3:1433
+06/01/2026-10:12:31.963045  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 64.89.163.82:56303 -> 192.168.45.3:5432
+06/01/2026-10:22:27.274261  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 198.235.24.117:53823 -> 192.168.45.3:1521
+06/01/2026-10:32:58.264852  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 20.163.33.221:35440 -> 192.168.45.3:5432
+06/01/2026-10:46:11.097141  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 138.186.44.196:58369 -> 192.168.45.3:1433
+06/01/2026-11:08:56.920441  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 59.35.205.146:63778 -> 192.168.45.3:1433
+06/01/2026-11:08:57.933913  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 59.35.205.146:63778 -> 192.168.45.3:1433
+06/01/2026-11:11:55.176104  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 148.0.234.34:30323 -> 192.168.45.3:1433
+06/01/2026-12:35:32.628813  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 84.54.3.194:46758 -> 192.168.45.3:5432
+06/01/2026-12:42:11.976547  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 122.156.44.55:44858 -> 192.168.45.3:1433
+06/01/2026-13:17:37.364172  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 95.215.0.144:58352 -> 192.168.45.3:22
+06/01/2026-13:37:16.145110  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 198.199.76.69:51803 -> 192.168.45.3:5432
+06/01/2026-13:51:48.663561  [**] [1:2011716:3] ET SCAN Sipvicious User-Agent Detected (friendly-scanner) [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 110.10.176.51:30162 -> 192.168.45.3:5060
+06/01/2026-14:06:09.209027  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 120.230.232.163:19746 -> 192.168.45.3:1433
+06/01/2026-14:16:57.501737  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 79.124.49.130:40355 -> 192.168.45.3:1433
+06/01/2026-14:41:56.921671  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 34.95.53.167:45432 -> 192.168.45.3:5432
+06/01/2026-14:53:12.316743  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.82.148.30:10400 -> 192.168.45.3:1433
+06/01/2026-14:54:05.721193  [**] [1:2500010:7638] ET COMPROMISED Known Compromised or Hostile Host Traffic group 6 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 185.242.3.211:42525 -> 192.168.45.3:49686
+06/01/2026-15:09:05.934881  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 77.90.185.118:54984 -> 192.168.45.3:5432
+06/01/2026-15:39:55.989893  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 66.132.172.233:59604 -> 192.168.45.3:3306
+06/01/2026-15:49:44.734501  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.104.100.117:59674 -> 192.168.45.3:5432
+06/01/2026-15:52:55.258813  [**] [1:2500004:7638] ET COMPROMISED Known Compromised or Hostile Host Traffic group 3 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 125.20.210.182:51434 -> 192.168.45.3:2222
+06/01/2026-16:10:11.039536  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 209.141.46.157:58894 -> 192.168.45.3:5432
+06/01/2026-16:25:28.039840  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 207.178.215.219:57862 -> 192.168.45.3:1433
+06/01/2026-16:25:28.039846  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 207.178.215.219:57862 -> 192.168.45.3:1433
+06/01/2026-16:43:52.987583  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 69.5.169.244:39639 -> 192.168.45.3:1433
+06/01/2026-17:30:17.837620  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 60.209.241.34:61904 -> 192.168.45.3:1433
+06/01/2026-17:52:42.735166  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 61.185.175.166:34060 -> 192.168.45.3:1433
+06/01/2026-18:09:54.713049  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 203.69.6.123:59887 -> 192.168.45.3:1433
+06/01/2026-18:11:29.128638  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 64.89.163.137:44751 -> 192.168.45.3:5432
+06/01/2026-18:18:06.775421  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 20.14.73.238:52287 -> 192.168.45.3:1433
+06/01/2026-18:50:30.564027  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 20.98.137.25:59916 -> 192.168.45.3:3306
+06/01/2026-18:58:16.454714  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 206.42.21.38:30280 -> 192.168.45.3:1433
+06/01/2026-19:01:11.578378  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 79.124.56.138:49954 -> 192.168.45.3:5432
+06/01/2026-19:39:36.716195  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 69.5.169.50:45401 -> 192.168.45.3:3306
+06/01/2026-19:43:23.844948  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 143.198.189.229:53520 -> 192.168.45.3:1433
+06/01/2026-19:58:09.552538  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 218.76.106.8:57451 -> 192.168.45.3:1433
+06/01/2026-19:59:13.629156  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 20.65.136.87:54507 -> 192.168.45.3:3306
+06/01/2026-20:37:52.233994  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 94.231.206.255:2304 -> 192.168.45.3:3306
+06/01/2026-20:44:10.170267  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 82.97.215.105:51924 -> 192.168.45.3:1433
+06/01/2026-21:06:57.551277  [**] [1:2500006:7638] ET COMPROMISED Known Compromised or Hostile Host Traffic group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 152.32.132.28:42327 -> 192.168.45.3:23
+06/01/2026-21:36:04.835941  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 81.19.216.73:16617 -> 192.168.45.3:1433
+06/01/2026-21:42:41.740389  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 125.24.11.75:56900 -> 192.168.45.3:1433
+06/01/2026-21:44:26.043559  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 81.19.216.97:34688 -> 192.168.45.3:5432
+06/01/2026-23:18:28.945098  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 124.88.117.118:58484 -> 192.168.45.3:3306
+06/02/2026-00:00:35.334290  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 45.142.193.9:56789 -> 192.168.45.3:5432
+06/02/2026-01:19:32.913461  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 139.162.70.53:52292 -> 192.168.45.3:3306
+06/02/2026-01:32:28.516347  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 143.202.210.166:51778 -> 192.168.45.3:1433
+06/02/2026-01:35:59.983354  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 20.65.193.94:53707 -> 192.168.45.3:3306
+06/02/2026-01:55:28.561162  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 194.187.178.240:12301 -> 192.168.45.3:1433
+06/02/2026-02:40:36.393541  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 45.142.154.98:58914 -> 192.168.45.3:1433
+06/02/2026-02:43:47.554433  [**] [1:2500010:7638] ET COMPROMISED Known Compromised or Hostile Host Traffic group 6 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 185.227.153.56:40438 -> 192.168.45.3:36169
+06/02/2026-03:07:40.867017  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 137.184.214.189:35118 -> 192.168.45.3:5432
+06/02/2026-03:25:39.423288  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 66.132.172.235:52734 -> 192.168.45.3:1521
+06/02/2026-03:30:54.748526  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 37.210.191.153:57829 -> 192.168.45.3:1433
+06/02/2026-03:36:21.925715  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 83.237.72.102:44347 -> 192.168.45.3:1433
+06/02/2026-04:14:03.503035  [**] [1:2500010:7638] ET COMPROMISED Known Compromised or Hostile Host Traffic group 6 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 185.242.3.211:55543 -> 192.168.45.3:5922
+06/02/2026-04:30:12.492072  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 142.93.124.161:59781 -> 192.168.45.3:3306
+06/02/2026-04:44:21.582425  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 213.209.159.66:42943 -> 192.168.45.3:5432
+06/02/2026-05:03:58.862586  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 120.202.177.187:41370 -> 192.168.45.3:1433
+06/02/2026-05:06:23.704253  [**] [1:2500010:7638] ET COMPROMISED Known Compromised or Hostile Host Traffic group 6 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 185.203.237.43:37315 -> 192.168.45.3:443
+06/02/2026-05:27:13.259513  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 213.209.159.66:45529 -> 192.168.45.3:5432
+06/02/2026-05:40:00.982547  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 47.74.51.79:36268 -> 192.168.45.3:3306
+06/02/2026-05:52:26.063030  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 137.184.139.119:56565 -> 192.168.45.3:1521
+06/02/2026-05:53:02.061909  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 20.168.125.66:35648 -> 192.168.45.3:1433
+06/02/2026-06:12:09.458144  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:41654 -> 192.168.45.2:8006
+06/02/2026-06:24:20.174242  [**] [1:2210016:2] SURICATA STREAM CLOSEWAIT FIN out of window [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.45.3:6111 -> 208.123.73.209:443
+06/02/2026-06:24:24.670300  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 208.123.73.207:443 -> 192.168.45.3:45271
+06/02/2026-06:36:43.039534  [**] [1:2210045:2] SURICATA STREAM Packet with invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.102:53069 -> 128.116.120.3:443
+06/02/2026-06:36:43.039534  [**] [1:2210046:2] SURICATA STREAM SHUTDOWN RST invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.102:53069 -> 128.116.120.3:443
+06/02/2026-06:37:18.129044  [**] [1:2210045:2] SURICATA STREAM Packet with invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.102:65426 -> 128.116.120.3:443
+06/02/2026-06:37:18.129044  [**] [1:2210046:2] SURICATA STREAM SHUTDOWN RST invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.102:65426 -> 128.116.120.3:443
+06/02/2026-06:37:33.179357  [**] [1:2210045:2] SURICATA STREAM Packet with invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.102:50389 -> 128.116.120.3:443
+06/02/2026-06:37:33.179357  [**] [1:2210046:2] SURICATA STREAM SHUTDOWN RST invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.102:50389 -> 128.116.120.3:443
+06/02/2026-06:37:43.160502  [**] [1:2210045:2] SURICATA STREAM Packet with invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.102:51355 -> 128.116.120.3:443
+06/02/2026-06:37:43.160502  [**] [1:2210046:2] SURICATA STREAM SHUTDOWN RST invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.102:51355 -> 128.116.120.3:443
+06/02/2026-06:42:31.589611  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.45.3:443 -> 192.168.45.252:35682
+06/02/2026-06:43:54.974863  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:49370 -> 192.168.45.2:8006
+06/02/2026-06:44:37.516794  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:39108 -> 192.168.45.2:8006
+06/02/2026-06:45:53.285872  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:46184 -> 192.168.45.2:8006
+06/02/2026-06:46:57.076912  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 106.15.238.36:41869 -> 192.168.45.3:1433
+06/02/2026-06:47:22.851711  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 78.187.211.85:49420 -> 192.168.45.3:1433
+06/02/2026-06:49:42.252979  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:55704 -> 192.168.45.2:8006
+06/02/2026-07:08:21.451115  [**] [1:2221014:1] SURICATA HTTP missing Host header [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 151.243.11.245:60560 -> 192.168.45.3:80
+06/02/2026-07:37:27.783624  [**] [1:2260000:1] SURICATA Applayer Mismatch protocol both directions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 45.148.10.67:41256 -> 192.168.45.3:80
+06/02/2026-07:44:33.970973  [**] [1:2210045:2] SURICATA STREAM Packet with invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.102:57068 -> 172.67.73.162:443
+06/02/2026-07:44:33.970973  [**] [1:2210046:2] SURICATA STREAM SHUTDOWN RST invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.102:57068 -> 172.67.73.162:443
+06/02/2026-07:50:37.313047  [**] [1:2210045:2] SURICATA STREAM Packet with invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.102:63204 -> 172.67.73.162:443
+06/02/2026-07:50:37.313047  [**] [1:2210046:2] SURICATA STREAM SHUTDOWN RST invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.1.102:63204 -> 172.67.73.162:443
+06/02/2026-07:59:15.292313  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 111.53.168.254:62600 -> 192.168.45.3:1433
+06/02/2026-07:59:16.293124  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 111.53.168.254:62600 -> 192.168.45.3:1433
+06/02/2026-08:28:50.130566  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 201.123.175.164:59322 -> 192.168.45.3:1433
+06/02/2026-08:35:06.575921  [**] [1:2500004:7638] ET COMPROMISED Known Compromised or Hostile Host Traffic group 3 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 125.20.210.182:33140 -> 192.168.45.3:443
+06/02/2026-08:35:58.728746  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.45.2:8006 -> 10.0.2.2:52812
+06/02/2026-08:53:12.918491  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 13.89.125.20:33506 -> 192.168.45.3:1521
+06/02/2026-08:55:27.776304  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 89.21.67.135:17246 -> 192.168.45.3:3306
+06/02/2026-08:58:38.356846  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 40.76.116.105:51203 -> 192.168.45.3:5432
+06/02/2026-09:19:05.312752  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:55292 -> 192.168.45.2:8006
+06/02/2026-09:44:40.256852  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 146.190.246.17:61001 -> 192.168.45.3:3306
+06/02/2026-10:38:32.817169  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 171.80.15.170:58409 -> 192.168.45.3:1433
+06/02/2026-10:41:09.614800  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 91.244.253.91:42500 -> 192.168.45.3:1433
+06/02/2026-10:46:40.085532  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 211.234.202.149:57872 -> 192.168.45.3:25565
+06/02/2026-10:46:40.085533  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 211.234.202.149:57872 -> 192.168.45.3:25565
+06/02/2026-10:46:40.085535  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 211.234.202.149:57872 -> 192.168.45.3:25565
+06/02/2026-10:46:40.085536  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 211.234.202.149:57872 -> 192.168.45.3:25565
+06/02/2026-10:46:40.205496  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 211.234.202.149:57872 -> 192.168.45.3:25565
+06/02/2026-10:47:12.893356  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 202.110.74.30:59556 -> 192.168.45.3:1433
+06/02/2026-11:01:53.279660  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 198.235.24.125:57224 -> 192.168.45.3:1521
+06/02/2026-11:04:30.077276  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 35.221.180.206:45432 -> 192.168.45.3:3306
+06/02/2026-11:19:26.375094  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 211.234.180.112:38672 -> 192.168.45.3:25565
+06/02/2026-11:21:20.525259  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 211.234.200.251:43530 -> 192.168.45.3:25565
+06/02/2026-11:21:20.748885  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 211.234.200.251:43530 -> 192.168.45.3:25565
+06/02/2026-11:21:20.748891  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 211.234.200.251:43530 -> 192.168.45.3:25565
+06/02/2026-12:01:11.358552  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 46.100.15.170:45010 -> 192.168.45.3:1433
+06/02/2026-13:24:22.927042  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 121.187.168.140:64908 -> 192.168.45.3:1433
+06/02/2026-13:24:24.027570  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 121.187.168.140:64908 -> 192.168.45.3:1433
+06/02/2026-13:39:56.164788  [**] [1:2011716:3] ET SCAN Sipvicious User-Agent Detected (friendly-scanner) [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 110.10.176.51:41263 -> 192.168.45.3:5060
+06/02/2026-13:57:48.052580  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 64.89.163.82:56265 -> 192.168.45.3:5432
+06/02/2026-13:58:27.644738  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 200.94.131.82:44618 -> 192.168.45.3:1433
+06/02/2026-14:45:58.210153  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 121.197.14.82:49106 -> 192.168.45.3:1433
+06/02/2026-15:00:45.990130  [**] [1:2500006:7641] ET COMPROMISED Known Compromised or Hostile Host Traffic group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 152.32.226.205:36320 -> 192.168.45.3:2222
+06/02/2026-15:01:00.675240  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 27.155.54.101:53822 -> 192.168.45.3:1433
+06/02/2026-15:03:40.056426  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.206.226.233:53121 -> 192.168.45.3:5432
+06/02/2026-15:08:58.614897  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 185.107.80.93:64321 -> 192.168.45.3:5432
+06/02/2026-15:18:56.472709  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 154.36.182.105:56802 -> 192.168.45.3:1433
+06/02/2026-15:18:58.482372  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 154.36.182.105:56802 -> 192.168.45.3:1433
+06/02/2026-15:30:50.972464  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 34.131.13.238:45432 -> 192.168.45.3:5432
+06/02/2026-15:43:50.757949  [**] [1:2500006:7641] ET COMPROMISED Known Compromised or Hostile Host Traffic group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 152.32.192.176:58731 -> 192.168.45.3:2375
+06/02/2026-15:50:43.241573  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 162.214.98.181:47439 -> 192.168.45.3:1433
+06/02/2026-15:58:01.989117  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 171.217.158.201:11131 -> 192.168.45.3:1433
+06/02/2026-16:49:58.945919  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 54.230.62.10:443 -> 192.168.45.3:52684
+06/02/2026-16:59:39.565935  [**] [1:2210054:1] SURICATA STREAM excessive retransmissions [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 208.123.73.209:443 -> 192.168.45.3:63150
+06/02/2026-17:06:59.317168  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 211.234.227.195:45960 -> 192.168.45.3:25565
+06/02/2026-17:06:59.326908  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 211.234.227.195:45960 -> 192.168.45.3:25565
+06/02/2026-17:06:59.326910  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 211.234.227.195:45960 -> 192.168.45.3:25565
+06/02/2026-17:06:59.326933  [**] [1:2210044:2] SURICATA STREAM Packet with invalid timestamp [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 211.234.227.195:45960 -> 192.168.45.3:25565
+06/02/2026-17:11:27.218170  [**] [1:2500010:7641] ET COMPROMISED Known Compromised or Hostile Host Traffic group 6 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 185.227.153.56:57306 -> 192.168.45.3:29485
+06/02/2026-17:33:12.497360  [**] [1:2500006:7641] ET COMPROMISED Known Compromised or Hostile Host Traffic group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 152.32.192.176:33916 -> 192.168.45.3:22
+06/02/2026-17:36:52.306327  [**] [1:2240006:2] SURICATA DNS Z flag set [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {UDP} 192.41.162.30:53 -> 192.168.45.3:2152
+06/02/2026-18:49:57.564510  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 66.132.186.241:20021 -> 192.168.45.3:1521
+06/02/2026-18:56:48.780964  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 118.169.11.147:51769 -> 192.168.45.3:1433
+06/02/2026-18:56:51.780542  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 118.169.11.147:51769 -> 192.168.45.3:1433
+06/02/2026-19:42:29.722391  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 20.65.195.62:42818 -> 192.168.45.3:5432
+06/02/2026-20:07:24.358278  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 40.124.173.173:58777 -> 192.168.45.3:1433
+06/02/2026-21:43:23.163892  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 137.117.183.113:42586 -> 192.168.45.3:1433
+06/02/2026-22:07:27.901363  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 61.169.106.246:48619 -> 192.168.45.3:1433
+06/02/2026-22:24:43.109768  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 117.220.89.44:59764 -> 192.168.45.3:1433
+06/02/2026-22:30:32.935161  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.232.232.10:40948 -> 192.168.45.3:1433
+06/02/2026-22:30:33.954648  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.232.232.10:40948 -> 192.168.45.3:1433
+06/02/2026-22:30:39.258017  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.232.232.10:44752 -> 192.168.45.3:3306
+06/02/2026-22:30:40.290362  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.232.232.10:44752 -> 192.168.45.3:3306
+06/02/2026-22:30:42.051713  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.232.232.10:42632 -> 192.168.45.3:5432
+06/02/2026-22:30:43.076720  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.232.232.10:42632 -> 192.168.45.3:5432
+06/02/2026-22:30:45.223137  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.232.232.10:43742 -> 192.168.45.3:1521
+06/02/2026-22:30:46.244844  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.232.232.10:43742 -> 192.168.45.3:1521
+06/02/2026-22:32:38.560274  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 218.76.106.8:43936 -> 192.168.45.3:1433
+06/02/2026-23:01:35.035472  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 217.21.193.74:49139 -> 192.168.45.3:3306
+06/02/2026-23:01:35.063067  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 217.21.193.74:14495 -> 192.168.45.3:1433
+06/02/2026-23:01:35.064723  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 217.21.193.74:11742 -> 192.168.45.3:5432
+06/02/2026-23:01:35.069912  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 217.21.193.74:61097 -> 192.168.45.3:1521
+06/02/2026-23:03:22.337414  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 212.132.127.66:40592 -> 192.168.45.3:3306
+06/02/2026-23:45:31.915639  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 94.102.49.155:41740 -> 192.168.45.3:22
+06/02/2026-23:52:05.585866  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 52.186.170.77:35107 -> 192.168.45.3:3306
+06/03/2026-00:12:33.089884  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 207.178.215.219:57878 -> 192.168.45.3:1433
+06/03/2026-00:12:33.089905  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 207.178.215.219:57878 -> 192.168.45.3:1433
+06/03/2026-00:38:03.424212  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 94.102.49.155:36420 -> 192.168.45.3:22
+06/03/2026-00:48:04.491423  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 120.221.11.58:49856 -> 192.168.45.3:3306
+06/03/2026-01:25:32.158124  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 27.221.13.239:52749 -> 192.168.45.3:1433
+06/03/2026-01:59:50.635784  [**] [1:2210042:2] SURICATA STREAM TIMEWAIT ACK with wrong seq [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:33290 -> 192.168.45.2:8006
+06/03/2026-02:02:17.112458  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 64.89.163.82:59503 -> 192.168.45.3:5432
+06/03/2026-02:31:13.174475  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 120.49.64.28:40132 -> 192.168.45.3:5432
+06/03/2026-02:43:11.519920  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 80.247.73.66:48964 -> 192.168.45.3:1433
+06/03/2026-02:48:37.653275  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 64.89.163.139:42269 -> 192.168.45.3:3306
+06/03/2026-02:56:14.147334  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 94.27.50.150:49259 -> 192.168.45.3:1433
+06/03/2026-03:23:33.867108  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 121.12.155.218:54796 -> 192.168.45.3:1433
+06/03/2026-03:29:39.477149  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 118.179.107.18:42113 -> 192.168.45.3:1433
+06/03/2026-03:30:28.539672  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 45.82.76.116:43585 -> 192.168.45.3:1433
+06/03/2026-03:41:52.980173  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 197.249.255.56:43478 -> 192.168.45.3:1433
+06/03/2026-04:16:05.901838  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 211.22.25.205:56318 -> 192.168.45.3:1433
+06/03/2026-04:16:40.830995  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 31.223.56.179:16693 -> 192.168.45.3:1433
+06/03/2026-04:32:42.671128  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 94.231.206.255:12635 -> 192.168.45.3:5432
+06/03/2026-04:45:08.993664  [**] [1:2500006:7641] ET COMPROMISED Known Compromised or Hostile Host Traffic group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 152.32.226.205:35787 -> 192.168.45.3:443
+06/03/2026-04:59:03.514493  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 24.199.98.33:49229 -> 192.168.45.3:1433
+06/03/2026-06:32:35.806213  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 139.162.117.40:40024 -> 192.168.45.3:1433
+06/03/2026-06:37:32.274570  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 82.200.154.210:48666 -> 192.168.45.3:1433
+06/03/2026-06:39:07.752779  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 171.80.15.170:48420 -> 192.168.45.3:1433
+06/03/2026-06:47:59.880273  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 183.104.131.194:54979 -> 192.168.45.3:1433
+06/03/2026-07:00:12.490598  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 52.165.82.6:60470 -> 192.168.45.3:3306
+06/03/2026-07:21:29.782822  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 46.30.165.67:56887 -> 192.168.45.3:1433
+06/03/2026-07:48:40.090150  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 80.179.17.52:56735 -> 192.168.45.3:1433
+06/03/2026-07:54:25.872473  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 89.37.172.157:35317 -> 192.168.45.3:5432
+06/03/2026-08:01:38.755953  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 20.169.104.253:33857 -> 192.168.45.3:5432
+06/03/2026-08:22:50.574956  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 100.29.192.121:32740 -> 192.168.45.3:1433
+06/03/2026-08:25:10.774407  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 85.11.167.7:53143 -> 192.168.45.3:5432
+06/03/2026-08:36:10.373824  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 185.21.120.72:49390 -> 192.168.45.3:1433
+06/03/2026-08:56:45.575027  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 45.91.64.6:60021 -> 192.168.45.3:3306
+06/03/2026-09:15:36.742371  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 118.193.59.41:54033 -> 192.168.45.3:1433
+06/03/2026-10:00:52.669861  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 49.74.109.48:30770 -> 192.168.45.3:1433
+06/03/2026-10:08:01.760715  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 121.187.168.125:56600 -> 192.168.45.3:1433
+06/03/2026-10:08:02.925455  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 121.187.168.125:56600 -> 192.168.45.3:1433
+06/03/2026-11:05:41.549677  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 64.89.163.133:52118 -> 192.168.45.3:5432
+06/03/2026-11:19:55.556905  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 72.27.198.230:51675 -> 192.168.45.3:1433
+06/03/2026-11:40:06.271391  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 80.94.92.10:52669 -> 192.168.45.3:5432
+06/03/2026-11:44:09.721117  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 177.128.7.161:52312 -> 192.168.45.3:1433
+06/03/2026-11:44:09.721154  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 177.128.7.161:52312 -> 192.168.45.3:1433
+06/03/2026-11:49:41.184597  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 80.94.92.10:52685 -> 192.168.45.3:3306
+06/03/2026-12:15:01.713058  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 80.94.92.10:52685 -> 192.168.45.3:1433
+06/03/2026-12:16:14.663434  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 80.94.92.10:52685 -> 192.168.45.3:1521
+06/03/2026-12:45:36.573421  [**] [1:2500010:7642] ET COMPROMISED Known Compromised or Hostile Host Traffic group 6 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 185.227.153.56:51864 -> 192.168.45.3:35746
+06/03/2026-13:34:47.191841  [**] [1:2011716:3] ET SCAN Sipvicious User-Agent Detected (friendly-scanner) [**] [Classification: Attempted Information Leak] [Priority: 2] {UDP} 110.10.176.51:28143 -> 192.168.45.3:5060
+06/03/2026-13:59:44.041864  [**] [1:2500000:7642] ET COMPROMISED Known Compromised or Hostile Host Traffic group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 109.122.217.21:59479 -> 192.168.45.3:52815
+06/03/2026-14:08:25.378493  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 81.19.219.232:19762 -> 192.168.45.3:3306
+06/03/2026-14:17:40.225325  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 213.166.84.58:49535 -> 192.168.45.3:1433
+06/03/2026-14:53:17.735806  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 122.116.63.54:45996 -> 192.168.45.3:1433
+06/03/2026-14:57:50.132687  [**] [1:2500000:7642] ET COMPROMISED Known Compromised or Hostile Host Traffic group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 109.122.217.21:45381 -> 192.168.45.3:53011
+06/03/2026-15:29:48.252180  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 221.226.7.130:65042 -> 192.168.45.3:1433
+06/03/2026-15:31:35.279214  [**] [1:2210058:1] SURICATA STREAM suspected RST injection [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.45.3:25565 -> 211.243.114.93:49224
+06/03/2026-15:48:12.546573  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 124.43.242.85:64770 -> 192.168.45.3:1433
+06/03/2026-15:48:15.556561  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 124.43.242.85:64770 -> 192.168.45.3:1433
+06/03/2026-15:54:38.048666  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 45.156.87.127:51404 -> 192.168.45.3:3306
+06/03/2026-16:20:04.700615  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 220.188.148.105:55050 -> 192.168.45.3:1433
+06/03/2026-16:20:05.050621  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 52.21.227.35:51568 -> 192.168.45.3:5432
+06/03/2026-16:37:57.806793  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 201.253.249.238:46711 -> 192.168.45.3:1433
+06/03/2026-16:40:23.699106  [**] [1:2210026:2] SURICATA STREAM ESTABLISHED SYN resend [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 176.65.149.203:61460 -> 192.168.45.3:25565
+06/03/2026-17:25:21.940647  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 46.151.182.191:55036 -> 192.168.45.3:5432
+06/03/2026-17:26:59.557096  [**] [1:2210033:2] SURICATA STREAM FIN1 invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:39692 -> 192.168.45.2:8006
+06/03/2026-17:26:59.557096  [**] [1:2210045:2] SURICATA STREAM Packet with invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:39692 -> 192.168.45.2:8006
+06/03/2026-17:26:59.559918  [**] [1:2210033:2] SURICATA STREAM FIN1 invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.45.2:8006 -> 10.0.2.2:39692
+06/03/2026-17:26:59.559918  [**] [1:2210045:2] SURICATA STREAM Packet with invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.45.2:8006 -> 10.0.2.2:39692
+06/03/2026-17:26:59.559921  [**] [1:2210033:2] SURICATA STREAM FIN1 invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.45.2:8006 -> 10.0.2.2:39692
+06/03/2026-17:26:59.559921  [**] [1:2210045:2] SURICATA STREAM Packet with invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.45.2:8006 -> 10.0.2.2:39692
+06/03/2026-17:26:59.572793  [**] [1:2210033:2] SURICATA STREAM FIN1 invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:39692 -> 192.168.45.2:8006
+06/03/2026-17:26:59.572793  [**] [1:2210045:2] SURICATA STREAM Packet with invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:39692 -> 192.168.45.2:8006
+06/03/2026-17:26:59.572802  [**] [1:2210033:2] SURICATA STREAM FIN1 invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:39692 -> 192.168.45.2:8006
+06/03/2026-17:26:59.572802  [**] [1:2210045:2] SURICATA STREAM Packet with invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:39692 -> 192.168.45.2:8006
+06/03/2026-17:26:59.604494  [**] [1:2210033:2] SURICATA STREAM FIN1 invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:39692 -> 192.168.45.2:8006
+06/03/2026-17:26:59.604494  [**] [1:2210045:2] SURICATA STREAM Packet with invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:39692 -> 192.168.45.2:8006
+06/03/2026-17:26:59.604980  [**] [1:2210032:2] SURICATA STREAM FIN1 FIN with wrong seq [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:39692 -> 192.168.45.2:8006
+06/03/2026-17:26:59.605284  [**] [1:2210032:2] SURICATA STREAM FIN1 FIN with wrong seq [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 192.168.45.2:8006 -> 10.0.2.2:39692
+06/03/2026-17:26:59.609813  [**] [1:2210033:2] SURICATA STREAM FIN1 invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:39692 -> 192.168.45.2:8006
+06/03/2026-17:26:59.609813  [**] [1:2210045:2] SURICATA STREAM Packet with invalid ack [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 10.0.2.2:39692 -> 192.168.45.2:8006
+06/03/2026-17:36:37.103794  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 154.90.62.47:55792 -> 192.168.45.3:5432
+06/03/2026-17:36:41.339220  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 154.90.62.47:55792 -> 192.168.45.3:1433
+06/03/2026-17:36:42.440816  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 154.90.62.47:55792 -> 192.168.45.3:1521
+06/03/2026-17:36:50.432215  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 154.90.62.47:55792 -> 192.168.45.3:3306
+06/03/2026-17:37:51.550709  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 8.215.25.14:55869 -> 192.168.45.3:5432
+06/03/2026-17:37:58.548707  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 8.215.25.14:55869 -> 192.168.45.3:3306
+06/03/2026-17:38:04.320056  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 8.215.25.14:55869 -> 192.168.45.3:1521
+06/03/2026-17:38:06.912232  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 8.215.25.14:55869 -> 192.168.45.3:1433
+06/03/2026-17:38:29.068737  [**] [1:2500000:7642] ET COMPROMISED Known Compromised or Hostile Host Traffic group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 109.122.217.21:51301 -> 192.168.45.3:53315
+06/03/2026-17:39:37.992445  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 144.172.88.96:55976 -> 192.168.45.3:1521
+06/03/2026-17:39:44.300074  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 144.172.88.96:55976 -> 192.168.45.3:3306
+06/03/2026-17:39:47.504969  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 144.172.88.96:55976 -> 192.168.45.3:1433
+06/03/2026-17:39:50.664498  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 144.172.88.96:55976 -> 192.168.45.3:5432
+06/03/2026-18:22:06.247448  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 34.97.191.184:45432 -> 192.168.45.3:5432
+06/03/2026-18:41:12.367849  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 172.104.100.117:56822 -> 192.168.45.3:5432
+06/03/2026-18:46:30.094875  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 64.89.163.133:59951 -> 192.168.45.3:5432
+06/03/2026-19:16:30.669886  [**] [1:2500000:7642] ET COMPROMISED Known Compromised or Hostile Host Traffic group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 109.122.217.21:57177 -> 192.168.45.3:53219
+06/03/2026-19:32:51.588833  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 103.186.69.236:51937 -> 192.168.45.3:1433
+06/03/2026-19:39:01.619402  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 34.40.212.83:45432 -> 192.168.45.3:3306
+06/03/2026-19:56:56.413733  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 220.130.187.188:60872 -> 192.168.45.3:1433
+06/03/2026-19:56:58.339101  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 195.82.4.34:51767 -> 192.168.45.3:1433
+06/03/2026-20:02:06.953678  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 84.54.3.194:54084 -> 192.168.45.3:5432
+06/03/2026-20:16:08.936178  [**] [1:2221014:1] SURICATA HTTP missing Host header [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 181.192.103.223:33664 -> 192.168.45.3:443
+06/03/2026-20:16:08.936178  [**] [1:2016683:3] ET WEB_SERVER WebShell Generic - wget http - POST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 181.192.103.223:33664 -> 192.168.45.3:443
+06/03/2026-20:17:09.756236  [**] [1:2221014:1] SURICATA HTTP missing Host header [**] [Classification: Generic Protocol Command Decode] [Priority: 3] {TCP} 103.161.61.77:42842 -> 192.168.45.3:443
+06/03/2026-20:19:17.511649  [**] [1:2016683:3] ET WEB_SERVER WebShell Generic - wget http - POST [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 103.161.61.77:42842 -> 192.168.45.3:443
+06/03/2026-20:48:22.136721  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.62:52336 -> 192.168.45.3:5900
+06/03/2026-20:48:22.136721  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.62:52336 -> 192.168.45.3:5900
+06/03/2026-20:48:22.375525  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.239:46995 -> 192.168.45.3:9477
+06/03/2026-20:49:23.929263  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.53:42551 -> 192.168.45.3:49684
+06/03/2026-20:49:39.476651  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.135:64210 -> 192.168.45.3:16519
+06/03/2026-20:49:56.083730  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.7:46505 -> 192.168.45.3:59000
+06/03/2026-20:51:12.710590  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.144:43268 -> 192.168.45.3:27876
+06/03/2026-20:51:22.842856  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.228:27644 -> 192.168.45.3:39869
+06/03/2026-20:52:03.180518  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.31:46740 -> 192.168.45.3:44164
+06/03/2026-20:52:10.614176  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.30:57327 -> 192.168.45.3:30369
+06/03/2026-20:54:13.412465  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 49.232.11.13:33144 -> 192.168.45.3:5432
+06/03/2026-20:54:14.464370  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 49.232.11.13:33144 -> 192.168.45.3:5432
+06/03/2026-20:59:07.389389  [**] [1:2500000:7642] ET COMPROMISED Known Compromised or Hostile Host Traffic group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 109.122.217.21:43334 -> 192.168.45.3:52849
+06/03/2026-21:00:30.258913  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.29:46626 -> 192.168.45.3:23430
+06/03/2026-21:02:51.531028  [**] [1:2400002:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 3 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 36.255.97.87:52129 -> 192.168.45.3:5900
+06/03/2026-21:07:02.526831  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.142:52138 -> 192.168.45.3:48613
+06/03/2026-21:11:18.238649  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.237:48348 -> 192.168.45.3:2183
+06/03/2026-21:12:37.407057  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.32:57032 -> 192.168.45.3:52601
+06/03/2026-21:13:08.667023  [**] [1:2400012:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 13 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 88.210.63.69:50110 -> 192.168.45.3:64435
+06/03/2026-21:14:22.541372  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.110:57244 -> 192.168.45.3:6667
+06/03/2026-21:14:54.607617  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.224.30:43102 -> 192.168.45.3:5683
+06/03/2026-21:15:50.911281  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.8:9617 -> 192.168.45.3:259
+06/03/2026-21:15:50.911281  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.8:9617 -> 192.168.45.3:259
+06/03/2026-21:16:04.062046  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.224.23:36584 -> 192.168.45.3:16992
+06/03/2026-21:16:42.554269  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.154.98:58914 -> 192.168.45.3:1025
+06/03/2026-21:16:53.176884  [**] [1:2400014:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 15 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 91.224.92.32:38324 -> 192.168.45.3:17000
+06/03/2026-21:17:32.914471  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.250:64961 -> 192.168.45.3:18244
+06/03/2026-21:22:03.257286  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.119:63904 -> 192.168.45.3:11199
+06/03/2026-21:23:52.496252  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.26:52352 -> 192.168.45.3:541
+06/03/2026-21:24:31.612927  [**] [1:2400007:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 8 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 46.151.182.191:49300 -> 192.168.45.3:5432
+06/03/2026-21:24:56.176714  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.253:43128 -> 192.168.45.3:17536
+06/03/2026-21:29:49.029258  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.231:12009 -> 192.168.45.3:64534
+06/03/2026-21:34:14.691606  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40000 -> 192.168.45.3:80
+06/03/2026-21:34:14.691606  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40000 -> 192.168.45.3:80
+06/03/2026-21:34:47.527252  [**] [1:2400010:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 11 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 85.11.167.7:40811 -> 192.168.45.3:54320
+06/03/2026-21:36:54.704190  [**] [1:2400009:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 10 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 77.90.185.79:47984 -> 192.168.45.3:8332
+06/03/2026-21:37:44.031034  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.192:38095 -> 192.168.45.3:5900
+06/03/2026-21:37:44.031034  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.192:38095 -> 192.168.45.3:5900
+06/03/2026-21:39:59.673944  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:16122
+06/03/2026-21:39:59.673944  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:16122
+06/03/2026-21:44:24.858939  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.125:8371 -> 192.168.45.3:41171
+06/03/2026-21:49:14.329271  [**] [1:2400008:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 9 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 64.89.161.171:49972 -> 192.168.45.3:80
+06/03/2026-21:50:00.763419  [**] [1:2027758:5] ET DNS Query for .cc TLD [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.45.3:54319 -> 192.42.174.30:53
+06/03/2026-21:50:00.763436  [**] [1:2027758:5] ET DNS Query for .cc TLD [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.45.3:54553 -> 192.42.173.30:53
+06/03/2026-21:50:00.841916  [**] [1:2027758:5] ET DNS Query for .cc TLD [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.45.3:21856 -> 205.251.197.48:53
+06/03/2026-21:50:00.878174  [**] [1:2027758:5] ET DNS Query for .cc TLD [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.45.3:28277 -> 192.42.174.30:53
+06/03/2026-21:50:00.890861  [**] [1:2027758:5] ET DNS Query for .cc TLD [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.45.3:12664 -> 205.251.194.5:53
+06/03/2026-21:50:00.894222  [**] [1:2027758:5] ET DNS Query for .cc TLD [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.45.3:56006 -> 205.251.194.5:53
+06/03/2026-21:50:00.897565  [**] [1:2027758:5] ET DNS Query for .cc TLD [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.45.3:11288 -> 205.251.197.48:53
+06/03/2026-21:50:00.933655  [**] [1:2027758:5] ET DNS Query for .cc TLD [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.45.3:12080 -> 205.251.197.48:53
+06/03/2026-21:50:00.968029  [**] [1:2027758:5] ET DNS Query for .cc TLD [**] [Classification: Potentially Bad Traffic] [Priority: 2] {UDP} 192.168.45.3:40098 -> 192.42.174.30:53
+06/03/2026-21:53:36.285855  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.143:52283 -> 192.168.45.3:5900
+06/03/2026-21:53:36.285855  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.143:52283 -> 192.168.45.3:5900
+06/03/2026-21:53:40.620325  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.146:47234 -> 192.168.45.3:16861
+06/03/2026-21:54:03.127383  [**] [1:2500000:7642] ET COMPROMISED Known Compromised or Hostile Host Traffic group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 109.122.217.21:49279 -> 192.168.45.3:53415
+06/03/2026-21:56:32.460128  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.196:51208 -> 192.168.45.3:5900
+06/03/2026-21:56:32.460128  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.196:51208 -> 192.168.45.3:5900
+06/03/2026-21:57:17.647742  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.198.224.126:54081 -> 192.168.45.3:20
+06/03/2026-21:57:49.294248  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 65.49.20.70:56813 -> 192.168.45.3:8883
+06/03/2026-21:57:59.726051  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.31:46740 -> 192.168.45.3:16098
+06/03/2026-21:58:47.811580  [**] [1:2400035:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 36 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 185.93.89.110:50447 -> 192.168.45.3:5900
+06/03/2026-21:59:05.214145  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.144:43252 -> 192.168.45.3:28687
+06/03/2026-21:59:44.996787  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.7:46505 -> 192.168.45.3:28088
+06/03/2026-22:01:37.869332  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.29:46626 -> 192.168.45.3:16683
+06/03/2026-22:03:59.102988  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.30:57327 -> 192.168.45.3:55458
+06/03/2026-22:06:44.485479  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.242:32960 -> 192.168.45.3:1080
+06/03/2026-22:07:19.329685  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.249:58322 -> 192.168.45.3:62347
+06/03/2026-22:10:42.215924  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.188:47438 -> 192.168.45.3:10022
+06/03/2026-22:13:01.447891  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.234:41919 -> 192.168.45.3:5900
+06/03/2026-22:13:01.447891  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.234:41919 -> 192.168.45.3:5900
+06/03/2026-22:14:21.650490  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.127:38551 -> 192.168.45.3:64487
+06/03/2026-22:16:51.171169  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.198.224.138:60001 -> 192.168.45.3:9702
+06/03/2026-22:18:03.040495  [**] [1:2400002:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 3 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 36.255.97.3:47760 -> 192.168.45.3:5900
+06/03/2026-22:26:56.720347  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.162:59290 -> 192.168.45.3:5900
+06/03/2026-22:26:56.720347  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.162:59290 -> 192.168.45.3:5900
+06/03/2026-22:27:41.625936  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.90:42086 -> 192.168.45.3:20562
+06/03/2026-22:28:27.915022  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.230:61895 -> 192.168.45.3:19302
+06/03/2026-22:30:01.072464  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.226:36792 -> 192.168.45.3:27017
+06/03/2026-22:34:26.017734  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.237:52396 -> 192.168.45.3:2754
+06/03/2026-22:34:42.982763  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.32:57032 -> 192.168.45.3:51507
+06/03/2026-22:35:09.001571  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.220:19183 -> 192.168.45.3:51200
+06/03/2026-22:35:24.022339  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.242:21144 -> 192.168.45.3:33153
+06/03/2026-22:39:41.362341  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.180:49636 -> 192.168.45.3:5900
+06/03/2026-22:39:41.362341  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.180:49636 -> 192.168.45.3:5900
+06/03/2026-22:39:42.136977  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.154:44379 -> 192.168.45.3:41282
+06/03/2026-22:40:08.419780  [**] [1:2400024:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 25 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 124.198.131.39:60839 -> 192.168.45.3:61616
+06/03/2026-22:41:55.742458  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.228:9151 -> 192.168.45.3:51005
+06/03/2026-22:45:59.229778  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.240:25832 -> 192.168.45.3:21787
+06/03/2026-22:52:56.382263  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.246:8249 -> 192.168.45.3:58071
+06/03/2026-22:53:23.574559  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.154.87:58914 -> 192.168.45.3:8423
+06/03/2026-22:57:04.295923  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.31:57386 -> 192.168.45.3:6036
+06/03/2026-22:57:04.295923  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.31:57386 -> 192.168.45.3:6036
+06/03/2026-22:58:32.121805  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.53:42551 -> 192.168.45.3:3392
+06/03/2026-23:02:16.985437  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.177:42840 -> 192.168.45.3:10173
+06/03/2026-23:02:26.985394  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.31:46740 -> 192.168.45.3:51785
+06/03/2026-23:05:18.923197  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.6:54243 -> 192.168.45.3:40424
+06/03/2026-23:05:18.923197  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.6:54243 -> 192.168.45.3:40424
+06/03/2026-23:05:24.577078  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.7:46505 -> 192.168.45.3:57745
+06/03/2026-23:05:30.697194  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.224.25:37369 -> 192.168.45.3:2000
+06/03/2026-23:07:04.131942  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.136:7425 -> 192.168.45.3:30461
+06/03/2026-23:07:04.242621  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.30:57327 -> 192.168.45.3:54991
+06/03/2026-23:07:23.368628  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 100.29.192.25:5883 -> 192.168.45.3:5432
+06/03/2026-23:08:19.369086  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.29:46626 -> 192.168.45.3:11982
+06/03/2026-23:08:21.730811  [**] [1:2400009:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 10 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 77.90.185.16:65105 -> 192.168.45.3:2222
+06/03/2026-23:12:46.257256  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.188:52991 -> 192.168.45.3:20022
+06/03/2026-23:13:40.459506  [**] [1:2400062:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 63 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 213.177.179.143:49596 -> 192.168.45.3:5900
+06/03/2026-23:15:13.803948  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:27822
+06/03/2026-23:15:13.803948  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:27822
+06/03/2026-23:15:49.326914  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.238:40476 -> 192.168.45.3:119
+06/03/2026-23:16:12.295533  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.124:64614 -> 192.168.45.3:17235
+06/03/2026-23:17:08.302482  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.144:43268 -> 192.168.45.3:19857
+06/03/2026-23:17:14.058752  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.10:55461 -> 192.168.45.3:3790
+06/03/2026-23:19:52.530971  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.12:55503 -> 192.168.45.3:45451
+06/03/2026-23:20:49.912287  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.214:2286 -> 192.168.45.3:631
+06/03/2026-23:21:23.931804  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 64.62.156.222:33417 -> 192.168.45.3:179
+06/03/2026-23:24:27.840918  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40000 -> 192.168.45.3:80
+06/03/2026-23:24:27.840918  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40000 -> 192.168.45.3:80
+06/03/2026-23:26:12.266670  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.244:64618 -> 192.168.45.3:7443
+06/03/2026-23:26:21.844177  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.125:40746 -> 192.168.45.3:64457
+06/03/2026-23:27:13.260033  [**] [1:2500000:7642] ET COMPROMISED Known Compromised or Hostile Host Traffic group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 109.122.217.21:55337 -> 192.168.45.3:52900
+06/03/2026-23:27:38.483994  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.66:37786 -> 192.168.45.3:80
+06/03/2026-23:27:38.483994  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.66:37786 -> 192.168.45.3:80
+06/03/2026-23:28:24.734122  [**] [1:2400014:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 15 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 91.224.92.32:58007 -> 192.168.45.3:6036
+06/03/2026-23:30:40.984871  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:52014 -> 192.168.45.3:22222
+06/03/2026-23:30:40.984871  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:52014 -> 192.168.45.3:22222
+06/03/2026-23:34:20.888100  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.9:55427 -> 192.168.45.3:33813
+06/03/2026-23:34:28.939964  [**] [1:2400004:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 5 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.42.88.54:60001 -> 192.168.45.3:9608
+06/03/2026-23:34:56.416422  [**] [1:2400062:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 63 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 213.209.159.43:46197 -> 192.168.45.3:5900
+06/03/2026-23:37:49.936980  [**] [1:2400012:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 13 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 88.210.63.69:50110 -> 192.168.45.3:44329
+06/03/2026-23:38:22.956126  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.144:58023 -> 192.168.45.3:41945
+06/03/2026-23:39:38.492895  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.198.224.138:60001 -> 192.168.45.3:9706
+06/03/2026-23:39:49.867705  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.249:22039 -> 192.168.45.3:3389
+06/03/2026-23:42:04.615906  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.32:57032 -> 192.168.45.3:25592
+06/03/2026-23:45:59.473800  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.230:22127 -> 192.168.45.3:8735
+06/03/2026-23:46:36.439551  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.220:40944 -> 192.168.45.3:8883
+06/03/2026-23:49:54.558208  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.113:56572 -> 192.168.45.3:22761
+06/03/2026-23:51:45.504329  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.114:20350 -> 192.168.45.3:5303
+06/03/2026-23:51:52.324958  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.198:37361 -> 192.168.45.3:5900
+06/03/2026-23:51:52.324958  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.198:37361 -> 192.168.45.3:5900
+06/03/2026-23:52:14.783539  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.22:50295 -> 192.168.45.3:5900
+06/03/2026-23:52:14.783539  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.22:50295 -> 192.168.45.3:5900
+06/03/2026-23:52:17.570622  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.9:29041 -> 192.168.45.3:9990
+06/03/2026-23:52:17.570622  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.9:29041 -> 192.168.45.3:9990
+06/03/2026-23:56:13.480901  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.154:55047 -> 192.168.45.3:5900
+06/03/2026-23:56:13.480901  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.154:55047 -> 192.168.45.3:5900
+06/03/2026-23:57:57.592851  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.130:31255 -> 192.168.45.3:24248
+06/03/2026-23:59:47.044979  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.218:47341 -> 192.168.45.3:5900
+06/03/2026-23:59:47.044979  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.218:47341 -> 192.168.45.3:5900
+06/04/2026-00:00:06.969755  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.195:37991 -> 192.168.45.3:5900
+06/04/2026-00:00:06.969755  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.195:37991 -> 192.168.45.3:5900
+06/04/2026-00:02:02.975304  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.181:42585 -> 192.168.45.3:5900
+06/04/2026-00:02:02.975304  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.181:42585 -> 192.168.45.3:5900
+06/04/2026-00:03:43.748212  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.211:52645 -> 192.168.45.3:5900
+06/04/2026-00:03:43.748212  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.211:52645 -> 192.168.45.3:5900
+06/04/2026-00:04:36.606893  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.227:20929 -> 192.168.45.3:15493
+06/04/2026-00:05:28.393594  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.134:10539 -> 192.168.45.3:52907
+06/04/2026-00:08:41.614941  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.53:42551 -> 192.168.45.3:3391
+06/04/2026-00:09:26.391331  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.8:55386 -> 192.168.45.3:7766
+06/04/2026-00:09:59.144090  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.226:37563 -> 192.168.45.3:5938
+06/04/2026-00:12:04.346837  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.30:57327 -> 192.168.45.3:55656
+06/04/2026-00:13:47.611309  [**] [1:2400062:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 63 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 216.26.242.240:45651 -> 192.168.45.3:80
+06/04/2026-00:17:52.869827  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.10:26097 -> 192.168.45.3:443
+06/04/2026-00:17:52.869827  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.10:26097 -> 192.168.45.3:443
+06/04/2026-00:18:14.911157  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 100.29.192.26:8778 -> 192.168.45.3:7777
+06/04/2026-00:18:39.317488  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.31:46740 -> 192.168.45.3:14405
+06/04/2026-00:19:56.762979  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.207:50209 -> 192.168.45.3:5900
+06/04/2026-00:19:56.762979  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.207:50209 -> 192.168.45.3:5900
+06/04/2026-00:20:37.269203  [**] [1:2400062:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 63 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 213.177.179.161:33966 -> 192.168.45.3:5900
+06/04/2026-00:23:28.153163  [**] [1:2400062:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 63 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 213.209.159.44:36538 -> 192.168.45.3:5900
+06/04/2026-00:23:33.341551  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.154:53103 -> 192.168.45.3:57872
+06/04/2026-00:24:33.776385  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.7:46505 -> 192.168.45.3:34309
+06/04/2026-00:24:47.481162  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 100.29.192.76:16454 -> 192.168.45.3:8291
+06/04/2026-00:25:38.681672  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.132:37626 -> 192.168.45.3:5900
+06/04/2026-00:25:38.681672  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.132:37626 -> 192.168.45.3:5900
+06/04/2026-00:26:22.537197  [**] [1:2400008:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 9 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 64.89.163.130:40374 -> 192.168.45.3:27017
+06/04/2026-00:28:14.617664  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.213:44832 -> 192.168.45.3:9142
+06/04/2026-00:28:46.951955  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.29:46626 -> 192.168.45.3:65484
+06/04/2026-00:29:54.040097  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:54022
+06/04/2026-00:29:54.040097  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:54022
+06/04/2026-00:30:27.002360  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.12:55503 -> 192.168.45.3:51010
+06/04/2026-00:34:31.631773  [**] [1:2400004:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 5 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.42.88.54:60001 -> 192.168.45.3:9607
+06/04/2026-00:34:45.884802  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.9:55427 -> 192.168.45.3:1289
+06/04/2026-00:38:40.465136  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.146:2129 -> 192.168.45.3:63136
+06/04/2026-00:39:41.340708  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.90:41046 -> 192.168.45.3:55138
+06/04/2026-00:40:27.667800  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.154.98:58914 -> 192.168.45.3:1194
+06/04/2026-00:45:06.552605  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.32:57032 -> 192.168.45.3:14067
+06/04/2026-00:47:00.515799  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.10:55461 -> 192.168.45.3:7889
+06/04/2026-00:52:28.550087  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.212:58102 -> 192.168.45.3:5900
+06/04/2026-00:52:28.550087  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.212:58102 -> 192.168.45.3:5900
+06/04/2026-00:52:31.966372  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.108:51711 -> 192.168.45.3:1801
+06/04/2026-00:55:23.739691  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 175.122.253.201:8 -> 192.168.45.3:0
+06/04/2026-00:58:44.710089  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40000 -> 192.168.45.3:80
+06/04/2026-00:58:44.710089  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40000 -> 192.168.45.3:80
+06/04/2026-00:58:57.747137  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.16:35864 -> 192.168.45.3:5900
+06/04/2026-00:58:57.747137  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.16:35864 -> 192.168.45.3:5900
+06/04/2026-00:59:16.123806  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 193.163.125.248:39931 -> 192.168.45.3:443
+06/04/2026-00:59:30.452663  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.160:50539 -> 192.168.45.3:5900
+06/04/2026-00:59:30.452663  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.160:50539 -> 192.168.45.3:5900
+06/04/2026-01:00:45.997262  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.132:30507 -> 192.168.45.3:31041
+06/04/2026-01:00:52.950121  [**] [1:2400062:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 63 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 213.209.159.49:33352 -> 192.168.45.3:5900
+06/04/2026-01:02:12.726157  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 120.244.161.27:47688 -> 192.168.45.3:1433
+06/04/2026-01:02:27.233643  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.236:29006 -> 192.168.45.3:52005
+06/04/2026-01:02:54.858227  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.142:9700 -> 192.168.45.3:13535
+06/04/2026-01:03:51.756954  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 8.211.141.140:56270 -> 192.168.45.3:1521
+06/04/2026-01:05:51.995664  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:52014 -> 192.168.45.3:2222
+06/04/2026-01:05:51.995664  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:52014 -> 192.168.45.3:2222
+06/04/2026-01:09:39.742958  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.119:37856 -> 192.168.45.3:435
+06/04/2026-01:15:32.261032  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.234:37030 -> 192.168.45.3:1194
+06/04/2026-01:16:21.689654  [**] [1:2400024:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 25 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 130.12.180.134:48743 -> 192.168.45.3:7384
+06/04/2026-01:18:01.016548  [**] [1:2400009:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 10 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 79.124.62.178:58881 -> 192.168.45.3:37389
+06/04/2026-01:19:26.149565  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.188:58594 -> 192.168.45.3:30022
+06/04/2026-01:21:18.736024  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.8:55386 -> 192.168.45.3:2626
+06/04/2026-01:26:36.766510  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.7:46505 -> 192.168.45.3:32857
+06/04/2026-01:26:45.272060  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 191.54.81.86:41262 -> 192.168.45.3:1433
+06/04/2026-01:26:54.389434  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.239:43359 -> 192.168.45.3:8446
+06/04/2026-01:27:55.212277  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.31:46740 -> 192.168.45.3:22103
+06/04/2026-01:28:17.744788  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 111.172.196.204:57721 -> 192.168.45.3:1433
+06/04/2026-01:28:47.698048  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.224.21:36862 -> 192.168.45.3:15443
+06/04/2026-01:35:34.919748  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.9:55427 -> 192.168.45.3:2500
+06/04/2026-01:37:48.779604  [**] [1:2400001:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 2 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 23.176.184.11:53 -> 192.168.45.3:26148
+06/04/2026-01:38:51.217144  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.156.87.7:44686 -> 192.168.45.3:27017
+06/04/2026-01:41:28.375024  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.131:39000 -> 192.168.45.3:12169
+06/04/2026-01:42:31.511831  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.12:55503 -> 192.168.45.3:3088
+06/04/2026-01:43:14.205164  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.90:41046 -> 192.168.45.3:54477
+06/04/2026-01:44:37.227198  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.122:29216 -> 192.168.45.3:17371
+06/04/2026-01:45:40.218186  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:61322
+06/04/2026-01:45:40.218186  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:61322
+06/04/2026-01:46:34.617221  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.118:4885 -> 192.168.45.3:44344
+06/04/2026-01:46:39.887906  [**] [1:2400062:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 63 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 213.177.179.176:59288 -> 192.168.45.3:5900
+06/04/2026-01:47:01.863406  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.154.87:58914 -> 192.168.45.3:8424
+06/04/2026-01:51:11.263934  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.200:37571 -> 192.168.45.3:5900
+06/04/2026-01:51:11.263934  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.200:37571 -> 192.168.45.3:5900
+06/04/2026-01:52:22.907199  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.223:40390 -> 192.168.45.3:5900
+06/04/2026-01:52:22.907199  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.223:40390 -> 192.168.45.3:5900
+06/04/2026-01:53:25.568857  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.29:46626 -> 192.168.45.3:18943
+06/04/2026-01:54:58.274887  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.124:62337 -> 192.168.45.3:16383
+06/04/2026-01:55:37.436489  [**] [1:2400002:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 3 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 36.255.97.67:36500 -> 192.168.45.3:5900
+06/04/2026-01:59:23.798053  [**] [1:2400012:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 13 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 88.210.63.69:50110 -> 192.168.45.3:25445
+06/04/2026-01:59:49.440170  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.30:57327 -> 192.168.45.3:29666
+06/04/2026-02:00:51.111806  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.32:57032 -> 192.168.45.3:19385
+06/04/2026-02:02:20.416829  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.179:49101 -> 192.168.45.3:5900
+06/04/2026-02:02:20.416829  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.179:49101 -> 192.168.45.3:5900
+06/04/2026-02:03:18.892714  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.215:57438 -> 192.168.45.3:18246
+06/04/2026-02:04:44.539746  [**] [1:2500000:7642] ET COMPROMISED Known Compromised or Hostile Host Traffic group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 109.122.217.21:41350 -> 192.168.45.3:52940
+06/04/2026-02:04:59.237007  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.251:63266 -> 192.168.45.3:9876
+06/04/2026-02:05:38.726755  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.128:49638 -> 192.168.45.3:26419
+06/04/2026-02:08:08.451416  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.142:5703 -> 192.168.45.3:35428
+06/04/2026-02:08:35.826295  [**] [1:2400035:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 36 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 185.93.89.111:51218 -> 192.168.45.3:5900
+06/04/2026-02:09:25.162793  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.210:49829 -> 192.168.45.3:16993
+06/04/2026-02:11:45.651740  [**] [1:2400002:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 3 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 36.255.97.115:32940 -> 192.168.45.3:5900
+06/04/2026-02:13:22.400730  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.31:48270 -> 192.168.45.3:17000
+06/04/2026-02:13:22.400730  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.31:48270 -> 192.168.45.3:17000
+06/04/2026-02:19:52.190674  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.10:55461 -> 192.168.45.3:9891
+06/04/2026-02:21:41.054324  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.8:55386 -> 192.168.45.3:1235
+06/04/2026-02:22:42.851468  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:44796 -> 192.168.45.3:22222
+06/04/2026-02:22:42.851468  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:44796 -> 192.168.45.3:22222
+06/04/2026-02:22:48.547643  [**] [1:2400002:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 3 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 36.255.97.47:59352 -> 192.168.45.3:5900
+06/04/2026-02:23:18.674628  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 135.237.125.221:60952 -> 192.168.45.3:1433
+06/04/2026-02:24:44.418719  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.87:55200 -> 192.168.45.3:1080
+06/04/2026-02:24:44.418719  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.87:55200 -> 192.168.45.3:1080
+06/04/2026-02:25:11.268827  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.188:44117 -> 192.168.45.3:40022
+06/04/2026-02:25:32.874600  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 202.107.234.142:8673 -> 192.168.45.3:1433
+06/04/2026-02:25:36.499238  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 185.254.95.141:59631 -> 192.168.45.3:1433
+06/04/2026-02:26:22.248130  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.8:5419 -> 192.168.45.3:23101
+06/04/2026-02:26:22.248130  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.8:5419 -> 192.168.45.3:23101
+06/04/2026-02:27:11.978036  [**] [1:2400062:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 63 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 213.177.179.165:45162 -> 192.168.45.3:5900
+06/04/2026-02:28:34.882154  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.31:46740 -> 192.168.45.3:16472
+06/04/2026-02:28:58.262071  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.200:12809 -> 192.168.45.3:8088
+06/04/2026-02:28:58.262071  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.200:12809 -> 192.168.45.3:8088
+06/04/2026-02:31:22.758898  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40001 -> 192.168.45.3:443
+06/04/2026-02:31:22.758898  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40001 -> 192.168.45.3:443
+06/04/2026-02:31:46.568700  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.145:45909 -> 192.168.45.3:5900
+06/04/2026-02:31:46.568700  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.145:45909 -> 192.168.45.3:5900
+06/04/2026-02:32:01.259264  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.207:22820 -> 192.168.45.3:990
+06/04/2026-02:34:39.191419  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.7:46505 -> 192.168.45.3:55418
+06/04/2026-02:36:29.625405  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.224.16:37250 -> 192.168.45.3:587
+06/04/2026-02:37:27.165880  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.244:27274 -> 192.168.45.3:24051
+06/04/2026-02:37:48.447224  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.232:34046 -> 192.168.45.3:2083
+06/04/2026-02:38:04.657258  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.225:58934 -> 192.168.45.3:5671
+06/04/2026-02:40:06.105336  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.53:47603 -> 192.168.45.3:37777
+06/04/2026-02:44:38.376666  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.90:41046 -> 192.168.45.3:54427
+06/04/2026-02:47:03.779933  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.234:20428 -> 192.168.45.3:28154
+06/04/2026-02:49:08.151268  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.12:55503 -> 192.168.45.3:2251
+06/04/2026-02:50:57.735079  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.224:51993 -> 192.168.45.3:5684
+06/04/2026-02:54:09.236674  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.146:65292 -> 192.168.45.3:22926
+06/04/2026-02:55:29.288227  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 100.29.192.71:26736 -> 192.168.45.3:32400
+06/04/2026-02:55:36.918351  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.29:46626 -> 192.168.45.3:13750
+06/04/2026-02:56:51.887528  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.29:54098 -> 192.168.45.3:44818
+06/04/2026-03:00:01.210685  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.118:16521 -> 192.168.45.3:29642
+06/04/2026-03:01:56.131355  [**] [1:2400008:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 9 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 64.89.163.83:49522 -> 192.168.45.3:5432
+06/04/2026-03:01:56.131355  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 64.89.163.83:49522 -> 192.168.45.3:5432
+06/04/2026-03:01:59.812342  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.242:25472 -> 192.168.45.3:12371
+06/04/2026-03:06:07.585803  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.120:27771 -> 192.168.45.3:58416
+06/04/2026-03:07:50.545192  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.124:29189 -> 192.168.45.3:21721
+06/04/2026-03:07:58.730771  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:60422
+06/04/2026-03:07:58.730771  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:60422
+06/04/2026-03:15:07.509558  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.236:12810 -> 192.168.45.3:2762
+06/04/2026-03:15:08.796320  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.32:57032 -> 192.168.45.3:10761
+06/04/2026-03:16:45.171310  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.69:59622 -> 192.168.45.3:5900
+06/04/2026-03:16:45.171310  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.69:59622 -> 192.168.45.3:5900
+06/04/2026-03:19:55.718937  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 100.29.192.45:63894 -> 192.168.45.3:22222
+06/04/2026-03:21:01.983393  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.30:57327 -> 192.168.45.3:30089
+06/04/2026-03:21:12.020031  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.151:64909 -> 192.168.45.3:42386
+06/04/2026-03:21:58.500893  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.9:55427 -> 192.168.45.3:4021
+06/04/2026-03:22:54.180971  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.224.29:29211 -> 192.168.45.3:1224
+06/04/2026-03:22:56.337882  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.183:51401 -> 192.168.45.3:5900
+06/04/2026-03:22:56.337882  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.183:51401 -> 192.168.45.3:5900
+06/04/2026-03:25:17.854820  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.190:50512 -> 192.168.45.3:5900
+06/04/2026-03:25:17.854820  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.190:50512 -> 192.168.45.3:5900
+06/04/2026-03:26:06.329638  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.77:52590 -> 192.168.45.3:8090
+06/04/2026-03:29:00.369652  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.204:45986 -> 192.168.45.3:5900
+06/04/2026-03:29:00.369652  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.204:45986 -> 192.168.45.3:5900
+06/04/2026-03:29:25.180912  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.140:30917 -> 192.168.45.3:28345
+06/04/2026-03:30:12.016976  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.18:57051 -> 192.168.45.3:5900
+06/04/2026-03:30:12.016976  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.18:57051 -> 192.168.45.3:5900
+06/04/2026-03:32:22.233303  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.8:55386 -> 192.168.45.3:5799
+06/04/2026-03:33:06.497241  [**] [1:2400002:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 3 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 36.255.97.55:48509 -> 192.168.45.3:5900
+06/04/2026-03:35:06.507264  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.7:46505 -> 192.168.45.3:30801
+06/04/2026-03:35:31.302218  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.145:54972 -> 192.168.45.3:16332
+06/04/2026-03:36:08.770954  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.123:50385 -> 192.168.45.3:993
+06/04/2026-03:37:05.469302  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.31:46740 -> 192.168.45.3:10777
+06/04/2026-03:39:24.092616  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 167.94.145.28:18821 -> 192.168.45.3:179
+06/04/2026-03:39:46.432664  [**] [1:2400016:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 17 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 101.36.108.191:39663 -> 192.168.45.3:7524
+06/04/2026-03:43:44.884613  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.103:36562 -> 192.168.45.3:8006
+06/04/2026-03:43:44.884613  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.103:36562 -> 192.168.45.3:8006
+06/04/2026-03:44:02.274507  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.121:54178 -> 192.168.45.3:22
+06/04/2026-03:44:02.274507  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.121:54178 -> 192.168.45.3:22
+06/04/2026-03:44:28.412513  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:44796 -> 192.168.45.3:22000
+06/04/2026-03:44:28.412513  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:44796 -> 192.168.45.3:22000
+06/04/2026-03:44:32.575409  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.200:20467 -> 192.168.45.3:8081
+06/04/2026-03:44:32.575409  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.200:20467 -> 192.168.45.3:8081
+06/04/2026-03:44:59.554558  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.90:41046 -> 192.168.45.3:17469
+06/04/2026-03:47:23.533020  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.37:53148 -> 192.168.45.3:8005
+06/04/2026-03:49:11.415844  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.214:16644 -> 192.168.45.3:2096
+06/04/2026-03:53:46.939315  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.149:18245 -> 192.168.45.3:63316
+06/04/2026-03:54:15.132609  [**] [1:2400008:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 9 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 64.89.162.78:42134 -> 192.168.45.3:3128
+06/04/2026-03:55:16.639848  [**] [1:2400008:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 9 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 64.89.161.171:49972 -> 192.168.45.3:443
+06/04/2026-03:55:21.403228  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 175.122.253.201:8 -> 192.168.45.3:0
+06/04/2026-03:55:24.850197  [**] [1:2400002:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 3 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 36.255.97.131:43777 -> 192.168.45.3:5900
+06/04/2026-03:55:28.790651  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.94:56364 -> 192.168.45.3:4443
+06/04/2026-03:55:47.669703  [**] [1:2400009:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 10 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 79.124.62.178:58881 -> 192.168.45.3:38389
+06/04/2026-03:58:23.213738  [**] [1:2400008:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 9 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 64.89.160.111:48997 -> 192.168.45.3:9999
+06/04/2026-03:58:33.589143  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.10:23218 -> 192.168.45.3:59341
+06/04/2026-03:58:33.589143  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.10:23218 -> 192.168.45.3:59341
+06/04/2026-03:59:57.358959  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 40.80.200.186:38768 -> 192.168.45.3:3306
+06/04/2026-04:03:14.340544  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40001 -> 192.168.45.3:443
+06/04/2026-04:03:14.340544  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40001 -> 192.168.45.3:443
+06/04/2026-04:05:30.698597  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.243:51626 -> 192.168.45.3:6008
+06/04/2026-04:06:13.880593  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.29:46626 -> 192.168.45.3:13317
+06/04/2026-04:06:45.735255  [**] [1:2400002:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 3 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 36.255.97.107:47926 -> 192.168.45.3:5900
+06/04/2026-04:09:52.598292  [**] [1:2400024:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 25 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 124.198.131.39:48922 -> 192.168.45.3:3000
+06/04/2026-04:12:00.368794  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:36722
+06/04/2026-04:12:00.368794  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:36722
+06/04/2026-04:12:23.735805  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.68:57094 -> 192.168.45.3:2085
+06/04/2026-04:12:48.688578  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.65:54420 -> 192.168.45.3:8887
+06/04/2026-04:14:38.742097  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.70:52238 -> 192.168.45.3:6568
+06/04/2026-04:16:38.718401  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.135:36379 -> 192.168.45.3:36361
+06/04/2026-04:17:14.355673  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.253:34282 -> 192.168.45.3:39646
+06/04/2026-04:18:05.797011  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.52:50628 -> 192.168.45.3:1025
+06/04/2026-04:18:13.315954  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.215:20257 -> 192.168.45.3:4839
+06/04/2026-04:19:19.967585  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.226:42806 -> 192.168.45.3:10002
+06/04/2026-04:19:45.773367  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.10:55461 -> 192.168.45.3:15251
+06/04/2026-04:21:13.284169  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.30:57327 -> 192.168.45.3:27650
+06/04/2026-04:21:15.163360  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 3.110.173.136:52044 -> 192.168.45.3:5432
+06/04/2026-04:21:16.223167  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 3.110.173.136:52044 -> 192.168.45.3:5432
+06/04/2026-04:23:15.055507  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.32:57032 -> 192.168.45.3:10349
+06/04/2026-04:25:59.334061  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.188:54437 -> 192.168.45.3:60022
+06/04/2026-04:26:18.451746  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.125:53262 -> 192.168.45.3:9595
+06/04/2026-04:27:11.205072  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.114:51873 -> 192.168.45.3:27017
+06/04/2026-04:27:26.349976  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.153.34.87:47004 -> 192.168.45.3:587
+06/04/2026-04:27:48.057089  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.12:55503 -> 192.168.45.3:5680
+06/04/2026-04:29:46.425820  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.9:55427 -> 192.168.45.3:4402
+06/04/2026-04:36:14.268340  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.8:55386 -> 192.168.45.3:7820
+06/04/2026-04:36:49.199938  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.151:14737 -> 192.168.45.3:9466
+06/04/2026-04:38:32.174205  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.198.224.145:58073 -> 192.168.45.3:5900
+06/04/2026-04:38:41.817373  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.239:55485 -> 192.168.45.3:9017
+06/04/2026-04:39:51.746231  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.7:46505 -> 192.168.45.3:58651
+06/04/2026-04:41:14.299986  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.216:57761 -> 192.168.45.3:1913
+06/04/2026-04:41:31.047590  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 183.233.145.75:27653 -> 192.168.45.3:1433
+06/04/2026-04:41:36.297244  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.54:50977 -> 192.168.45.3:993
+06/04/2026-04:42:19.449537  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.155:44190 -> 192.168.45.3:5900
+06/04/2026-04:42:19.449537  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.155:44190 -> 192.168.45.3:5900
+06/04/2026-04:43:55.580689  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.53:47603 -> 192.168.45.3:1911
+06/04/2026-04:44:09.751028  [**] [1:2400062:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 63 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 213.177.179.156:33321 -> 192.168.45.3:5900
+06/04/2026-04:45:50.295949  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.90:41046 -> 192.168.45.3:33209
+06/04/2026-04:46:01.039486  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.136:60793 -> 192.168.45.3:48121
+06/04/2026-04:46:45.237128  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.137:53853 -> 192.168.45.3:5900
+06/04/2026-04:46:45.237128  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.137:53853 -> 192.168.45.3:5900
+06/04/2026-04:50:37.751091  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.60:51482 -> 192.168.45.3:23656
+06/04/2026-04:50:50.710038  [**] [1:2400062:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 63 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 213.209.159.3:41362 -> 192.168.45.3:5900
+06/04/2026-04:51:03.096984  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.43:49048 -> 192.168.45.3:5906
+06/04/2026-04:51:03.096984  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.43:49048 -> 192.168.45.3:5906
+06/04/2026-04:51:34.335363  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 198.235.24.37:56467 -> 192.168.45.3:88
+06/04/2026-04:52:30.674160  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.134:40758 -> 192.168.45.3:37789
+06/04/2026-04:53:50.787892  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.31:46740 -> 192.168.45.3:43280
+06/04/2026-04:54:57.428916  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.145:63832 -> 192.168.45.3:870
+06/04/2026-04:59:16.303094  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 100.29.192.117:29188 -> 192.168.45.3:1883
+06/04/2026-04:59:34.390658  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.121:54020 -> 192.168.45.3:22222
+06/04/2026-04:59:34.390658  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.121:54020 -> 192.168.45.3:22222
+06/04/2026-05:01:18.966987  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.222:59993 -> 192.168.45.3:25565
+06/04/2026-05:01:25.869730  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.108:41338 -> 192.168.45.3:25565
+06/04/2026-05:02:41.565637  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.154.87:58914 -> 192.168.45.3:8425
+06/04/2026-05:05:27.747992  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.224.20:54525 -> 192.168.45.3:6003
+06/04/2026-05:09:20.377395  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.29:46626 -> 192.168.45.3:50763
+06/04/2026-05:09:44.039906  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.56:56100 -> 192.168.45.3:49501
+06/04/2026-05:12:39.031048  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.246:17923 -> 192.168.45.3:41217
+06/04/2026-05:14:25.635323  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 100.29.192.26:28925 -> 192.168.45.3:47001
+06/04/2026-05:15:33.222398  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 205.210.31.173:52935 -> 192.168.45.3:443
+06/04/2026-05:15:58.170566  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.66:51776 -> 192.168.45.3:80
+06/04/2026-05:15:58.170566  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.66:51776 -> 192.168.45.3:80
+06/04/2026-05:19:09.062874  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.188:57308 -> 192.168.45.3:5900
+06/04/2026-05:19:09.062874  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.188:57308 -> 192.168.45.3:5900
+06/04/2026-05:19:48.283327  [**] [1:2400010:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 11 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 85.11.167.7:47707 -> 192.168.45.3:5432
+06/04/2026-05:19:48.283327  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 85.11.167.7:47707 -> 192.168.45.3:5432
+06/04/2026-05:20:55.490413  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:46722
+06/04/2026-05:20:55.490413  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:46722
+06/04/2026-05:21:07.549459  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.224.30:59338 -> 192.168.45.3:61616
+06/04/2026-05:21:48.153941  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.122:51504 -> 192.168.45.3:58000
+06/04/2026-05:23:58.809395  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.30:57327 -> 192.168.45.3:54794
+06/04/2026-05:24:05.346681  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40001 -> 192.168.45.3:443
+06/04/2026-05:24:05.346681  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40001 -> 192.168.45.3:443
+06/04/2026-05:24:08.083712  [**] [1:2400005:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 6 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.135.194.83:40081 -> 192.168.45.3:5900
+06/04/2026-05:24:09.861895  [**] [1:2400005:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 6 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 45.135.194.150:53 -> 192.168.45.3:44482
+06/04/2026-05:25:55.427654  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 191.92.5.157:59438 -> 192.168.45.3:1433
+06/04/2026-05:27:33.282313  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.115:42642 -> 192.168.45.3:11671
+06/04/2026-05:28:16.159402  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 109.248.43.169:8 -> 192.168.45.3:0
+06/04/2026-05:28:16.159402  [**] [1:2100368:7] GPL ICMP PING BSDtype [**] [Classification: Misc activity] [Priority: 3] {ICMP} 109.248.43.169:8 -> 192.168.45.3:0
+06/04/2026-05:30:38.283676  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.245:40403 -> 192.168.45.3:81
+06/04/2026-05:37:21.563767  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.118:15714 -> 192.168.45.3:15045
+06/04/2026-05:40:19.723046  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.7:46505 -> 192.168.45.3:32952
+06/04/2026-05:43:57.744566  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.130:46828 -> 192.168.45.3:48170
+06/04/2026-05:44:41.678246  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.144:59358 -> 192.168.45.3:60803
+06/04/2026-05:45:06.256480  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.224:53765 -> 192.168.45.3:1329
+06/04/2026-05:45:11.112290  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.228:59696 -> 192.168.45.3:2443
+06/04/2026-05:50:22.705108  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.250:47637 -> 192.168.45.3:8159
+06/04/2026-05:50:34.679869  [**] [1:2400012:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 13 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 88.210.63.69:50110 -> 192.168.45.3:24448
+06/04/2026-05:50:41.870794  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.32:57032 -> 192.168.45.3:20222
+06/04/2026-05:50:57.907497  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.53:47603 -> 192.168.45.3:104
+06/04/2026-05:51:18.817054  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.119:51333 -> 192.168.45.3:52311
+06/04/2026-05:52:14.467865  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.10:55461 -> 192.168.45.3:3901
+06/04/2026-05:53:28.293105  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.96:57023 -> 192.168.45.3:8000
+06/04/2026-05:54:05.167467  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.31:46740 -> 192.168.45.3:62386
+06/04/2026-05:57:17.332791  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 176.32.193.16:60023 -> 192.168.45.3:3306
+06/04/2026-05:59:16.455689  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 100.29.192.70:30021 -> 192.168.45.3:2082
+06/04/2026-05:59:39.081122  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 69.5.169.19:48453 -> 192.168.45.3:1433
+06/04/2026-06:01:40.327390  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.90:41046 -> 192.168.45.3:43823
+06/04/2026-06:04:56.768584  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.169:40604 -> 192.168.45.3:3392
+06/04/2026-06:05:19.100480  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.79:57272 -> 192.168.45.3:389
+06/04/2026-06:06:25.504944  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.31:37535 -> 192.168.45.3:17001
+06/04/2026-06:06:25.504944  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.31:37535 -> 192.168.45.3:17001
+06/04/2026-06:07:09.906970  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.211:26441 -> 192.168.45.3:17778
+06/04/2026-06:07:32.151496  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.224:51385 -> 192.168.45.3:1604
+06/04/2026-06:07:37.885628  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 20.64.105.74:53733 -> 192.168.45.3:1433
+06/04/2026-06:08:18.942085  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.8:55386 -> 192.168.45.3:6008
+06/04/2026-06:10:45.740169  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.231:62536 -> 192.168.45.3:25565
+06/04/2026-06:10:56.549950  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.16:5189 -> 192.168.45.3:25565
+06/04/2026-06:12:29.406649  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.29:46626 -> 192.168.45.3:48980
+06/04/2026-06:12:48.706940  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.118:56724 -> 192.168.45.3:102
+06/04/2026-06:13:26.295458  [**] [1:2400014:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 15 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 92.118.39.97:58369 -> 192.168.45.3:8979
+06/04/2026-06:14:19.940241  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.6:54243 -> 192.168.45.3:40425
+06/04/2026-06:14:19.940241  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.6:54243 -> 192.168.45.3:40425
+06/04/2026-06:15:38.278062  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 198.235.24.126:56518 -> 192.168.45.3:4500
+06/04/2026-06:15:57.147987  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.188:59558 -> 192.168.45.3:1022
+06/04/2026-06:16:22.965599  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.224.24:2712 -> 192.168.45.3:2362
+06/04/2026-06:17:21.501391  [**] [1:2400005:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 6 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.135.194.113:52184 -> 192.168.45.3:10808
+06/04/2026-06:21:12.794005  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 20.29.23.198:44993 -> 192.168.45.3:3306
+06/04/2026-06:21:40.772903  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.218:51686 -> 192.168.45.3:44817
+06/04/2026-06:22:23.724296  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.112:51927 -> 192.168.45.3:8094
+06/04/2026-06:23:26.103533  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 184.70.159.86:43944 -> 192.168.45.3:1433
+06/04/2026-06:23:49.499970  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.231:60745 -> 192.168.45.3:14781
+06/04/2026-06:25:00.219563  [**] [1:2400022:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 23 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 112.213.111.61:43735 -> 192.168.45.3:80
+06/04/2026-06:25:43.283404  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.253:56340 -> 192.168.45.3:20201
+06/04/2026-06:28:44.329199  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.224.29:61075 -> 192.168.45.3:18246
+06/04/2026-06:29:23.241331  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.240:42897 -> 192.168.45.3:27461
+06/04/2026-06:29:28.669392  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.38:49830 -> 192.168.45.3:9000
+06/04/2026-06:29:28.835945  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.221:1438 -> 192.168.45.3:2079
+06/04/2026-06:29:55.021993  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.30:57327 -> 192.168.45.3:26776
+06/04/2026-06:30:08.791366  [**] [1:2400005:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 6 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.135.194.83:42516 -> 192.168.45.3:5902
+06/04/2026-06:31:47.496546  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.237:44685 -> 192.168.45.3:4839
+06/04/2026-06:32:19.286608  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 121.160.56.18:53488 -> 192.168.45.3:3306
+06/04/2026-06:32:45.128360  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 121.160.56.18:61466 -> 192.168.45.3:1433
+06/04/2026-06:34:09.998175  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.12:55503 -> 192.168.45.3:9200
+06/04/2026-06:34:24.730348  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:27022
+06/04/2026-06:34:24.730348  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:27022
+06/04/2026-06:34:25.807505  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.124:48547 -> 192.168.45.3:43040
+06/04/2026-06:34:56.510119  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.224.30:10753 -> 192.168.45.3:21
+06/04/2026-06:39:11.365487  [**] [1:2400004:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 5 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.42.88.54:60001 -> 192.168.45.3:9609
+06/04/2026-06:41:58.520785  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.237:40748 -> 192.168.45.3:2530
+06/04/2026-06:43:03.872925  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.7:46505 -> 192.168.45.3:57696
+06/04/2026-06:43:05.786120  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 69.5.169.207:19709 -> 192.168.45.3:5432
+06/04/2026-06:46:10.140626  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:57588 -> 192.168.45.3:1022
+06/04/2026-06:46:10.140626  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:57588 -> 192.168.45.3:1022
+06/04/2026-06:46:47.854005  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.52:41370 -> 192.168.45.3:33622
+06/04/2026-06:46:47.854005  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.52:41370 -> 192.168.45.3:33622
+06/04/2026-06:47:14.030843  [**] [1:2400035:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 36 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 185.93.89.79:51884 -> 192.168.45.3:4444
+06/04/2026-06:48:13.980243  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.47:50615 -> 192.168.45.3:8090
+06/04/2026-06:49:09.702668  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.122:53522 -> 192.168.45.3:8888
+06/04/2026-06:50:41.817093  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.148:55180 -> 192.168.45.3:29234
+06/04/2026-06:52:06.250795  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.154.98:58914 -> 192.168.45.3:888
+06/04/2026-06:56:29.345043  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 100.29.192.32:43771 -> 192.168.45.3:1717
+06/04/2026-06:57:58.941830  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.53:47603 -> 192.168.45.3:25001
+06/04/2026-06:58:42.141190  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.248:14524 -> 192.168.45.3:8008
+06/04/2026-07:00:06.341703  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.156:38038 -> 192.168.45.3:9259
+06/04/2026-07:02:30.773765  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.121:49433 -> 192.168.45.3:2222
+06/04/2026-07:02:30.773765  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.121:49433 -> 192.168.45.3:2222
+06/04/2026-07:04:28.311956  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.90:41046 -> 192.168.45.3:53828
+06/04/2026-07:06:16.463301  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.117:54419 -> 192.168.45.3:20249
+06/04/2026-07:07:02.833320  [**] [1:2400010:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 11 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 85.11.167.11:60147 -> 192.168.45.3:5432
+06/04/2026-07:07:02.833320  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 85.11.167.11:60147 -> 192.168.45.3:5432
+06/04/2026-07:07:48.649186  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.144:59358 -> 192.168.45.3:50151
+06/04/2026-07:09:20.094515  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40001 -> 192.168.45.3:443
+06/04/2026-07:09:20.094515  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40001 -> 192.168.45.3:443
+06/04/2026-07:09:36.761813  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.9:55427 -> 192.168.45.3:3455
+06/04/2026-07:11:10.370073  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.169:40604 -> 192.168.45.3:5555
+06/04/2026-07:11:11.316346  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.246:49391 -> 192.168.45.3:502
+06/04/2026-07:12:27.848689  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.32:57032 -> 192.168.45.3:11630
+06/04/2026-07:12:45.083950  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.31:46740 -> 192.168.45.3:49606
+06/04/2026-07:17:54.990121  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.29:46626 -> 192.168.45.3:24265
+06/04/2026-07:20:26.078720  [**] [1:2500000:7642] ET COMPROMISED Known Compromised or Hostile Host Traffic group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 109.122.217.21:45219 -> 192.168.45.3:53044
+06/04/2026-07:20:44.145526  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.238:44092 -> 192.168.45.3:25430
+06/04/2026-07:22:04.745129  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.243:10736 -> 192.168.45.3:110
+06/04/2026-07:22:09.710426  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.122:29651 -> 192.168.45.3:54879
+06/04/2026-07:22:13.975443  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.120:50592 -> 192.168.45.3:1911
+06/04/2026-07:23:07.912604  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.114:37193 -> 192.168.45.3:49916
+06/04/2026-07:23:09.742659  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.137:34229 -> 192.168.45.3:14686
+06/04/2026-07:24:34.332382  [**] [1:2400003:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 4 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.6:54243 -> 192.168.45.3:40412
+06/04/2026-07:24:34.332382  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 43.228.157.6:54243 -> 192.168.45.3:40412
+06/04/2026-07:28:24.934194  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.8:55386 -> 192.168.45.3:9778
+06/04/2026-07:30:39.501309  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.10:55461 -> 192.168.45.3:4015
+06/04/2026-07:31:11.435102  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.92:52074 -> 192.168.45.3:179
+06/04/2026-07:31:49.549449  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.112:60128 -> 192.168.45.3:21709
+06/04/2026-07:32:31.822154  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.224.25:55080 -> 192.168.45.3:34964
+06/04/2026-07:33:44.634458  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.251:51022 -> 192.168.45.3:50961
+06/04/2026-07:40:09.573168  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.30:57327 -> 192.168.45.3:54622
+06/04/2026-07:40:38.941853  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.79:52107 -> 192.168.45.3:3000
+06/04/2026-07:42:56.750120  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.43:49048 -> 192.168.45.3:5901
+06/04/2026-07:42:56.750120  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.43:49048 -> 192.168.45.3:5901
+06/04/2026-07:43:43.744974  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.154.87:58914 -> 192.168.45.3:8426
+06/04/2026-07:45:29.401747  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.226:53725 -> 192.168.45.3:22822
+06/04/2026-07:46:29.973230  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.249:54107 -> 192.168.45.3:9181
+06/04/2026-07:47:37.559297  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.244:33654 -> 192.168.45.3:30005
+06/04/2026-07:47:45.727081  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.186.254:60195 -> 192.168.45.3:17184
+06/04/2026-07:47:49.945168  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.239:43619 -> 192.168.45.3:8107
+06/04/2026-07:48:14.193935  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 162.214.98.181:40330 -> 192.168.45.3:1433
+06/04/2026-07:48:34.217965  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:57588 -> 192.168.45.3:22222
+06/04/2026-07:48:34.217965  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:57588 -> 192.168.45.3:22222
+06/04/2026-07:50:01.604844  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.7:46505 -> 192.168.45.3:27756
+06/04/2026-07:51:43.313931  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.121:53291 -> 192.168.45.3:4172
+06/04/2026-07:53:10.710063  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:64222
+06/04/2026-07:53:10.710063  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:64222
+06/04/2026-07:55:25.622433  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 175.122.253.201:8 -> 192.168.45.3:0
+06/04/2026-07:55:26.621703  [**] [1:2100366:8] GPL ICMP PING *NIX [**] [Classification: Misc activity] [Priority: 3] {ICMP} 175.122.253.201:8 -> 192.168.45.3:0
+06/04/2026-07:56:18.582368  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.105:55799 -> 192.168.45.3:990
+06/04/2026-07:58:04.140023  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.217:32439 -> 192.168.45.3:2281
+06/04/2026-08:00:18.083457  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.252:34604 -> 192.168.45.3:27253
+06/04/2026-08:04:34.111548  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.90:41046 -> 192.168.45.3:57351
+06/04/2026-08:05:30.268840  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.223:49415 -> 192.168.45.3:1899
+06/04/2026-08:09:26.092957  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.238:1941 -> 192.168.45.3:503
+06/04/2026-08:09:59.688867  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.244:16377 -> 192.168.45.3:22180
+06/04/2026-08:10:54.468437  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.144:59358 -> 192.168.45.3:57338
+06/04/2026-08:14:37.309590  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.31:46740 -> 192.168.45.3:49431
+06/04/2026-08:16:04.471075  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.84:55187 -> 192.168.45.3:12345
+06/04/2026-08:16:40.110840  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.169:40604 -> 192.168.45.3:3399
+06/04/2026-08:17:10.804720  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.32:57032 -> 192.168.45.3:47328
+06/04/2026-08:18:53.781583  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.254:65458 -> 192.168.45.3:28506
+06/04/2026-08:19:34.879985  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.237:48763 -> 192.168.45.3:2653
+06/04/2026-08:20:24.957965  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.29:46626 -> 192.168.45.3:60766
+06/04/2026-08:21:48.926672  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.83:56380 -> 192.168.45.3:4100
+06/04/2026-08:22:31.474881  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 14.23.168.251:40929 -> 192.168.45.3:1433
+06/04/2026-08:23:19.415657  [**] [1:2500032:7642] ET COMPROMISED Known Compromised or Hostile Host Traffic group 17 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 77.105.161.28:58960 -> 192.168.45.3:2375
+06/04/2026-08:23:49.926167  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.53:47603 -> 192.168.45.3:1454
+06/04/2026-08:24:20.796692  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.31:37485 -> 192.168.45.3:6036
+06/04/2026-08:24:20.796692  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.31:37485 -> 192.168.45.3:6036
+06/04/2026-08:27:22.038159  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 71.6.199.65:42201 -> 192.168.45.3:5432
+06/04/2026-08:28:04.594482  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.139:65150 -> 192.168.45.3:64166
+06/04/2026-08:31:30.728214  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.10:55461 -> 192.168.45.3:3109
+06/04/2026-08:37:15.974552  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 69.5.169.182:26659 -> 192.168.45.3:3306
+06/04/2026-08:38:58.727518  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 20.65.195.63:44195 -> 192.168.45.3:1433
+06/04/2026-08:39:20.319119  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.12:55503 -> 192.168.45.3:5020
+06/04/2026-08:39:21.208911  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.248:60423 -> 192.168.45.3:6000
+06/04/2026-08:39:29.652494  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.186.207:56506 -> 192.168.45.3:17186
+06/04/2026-08:41:36.721823  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40001 -> 192.168.45.3:443
+06/04/2026-08:41:36.721823  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40001 -> 192.168.45.3:443
+06/04/2026-08:42:06.834391  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.238:5504 -> 192.168.45.3:14858
+06/04/2026-08:42:51.531071  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.233:60598 -> 192.168.45.3:2434
+06/04/2026-08:43:39.234413  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.235:1283 -> 192.168.45.3:15443
+06/04/2026-08:44:57.189185  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.30:57327 -> 192.168.45.3:27860
+06/04/2026-08:45:15.903219  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.129:61299 -> 192.168.45.3:52080
+06/04/2026-08:49:47.656228  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.8:55386 -> 192.168.45.3:1965
+06/04/2026-08:50:37.252190  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.248:1970 -> 192.168.45.3:59114
+06/04/2026-08:51:47.290601  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.137:32986 -> 192.168.45.3:28863
+06/04/2026-08:54:21.758148  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.7:46505 -> 192.168.45.3:57309
+06/04/2026-09:02:21.571585  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.135:18042 -> 192.168.45.3:65258
+06/04/2026-09:02:28.070033  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.232:60159 -> 192.168.45.3:8013
+06/04/2026-09:03:30.189044  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 139.162.70.53:43981 -> 192.168.45.3:3306
+06/04/2026-09:03:32.048781  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.188:49795 -> 192.168.45.3:4022
+06/04/2026-09:07:49.507706  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 65.49.20.102:8959 -> 192.168.45.3:7
+06/04/2026-09:08:18.093389  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.127:3486 -> 192.168.45.3:60888
+06/04/2026-09:10:32.555346  [**] [1:2010936:3] ET SCAN Suspicious inbound to Oracle SQL port 1521 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 20.65.152.136:49162 -> 192.168.45.3:1521
+06/04/2026-09:10:44.543888  [**] [1:2400008:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 9 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 64.89.163.134:51647 -> 192.168.45.3:5432
+06/04/2026-09:10:44.543888  [**] [1:2010939:3] ET SCAN Suspicious inbound to PostgreSQL port 5432 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 64.89.163.134:51647 -> 192.168.45.3:5432
+06/04/2026-09:13:23.442096  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 203.156.243.142:48769 -> 192.168.45.3:1433
+06/04/2026-09:14:18.318870  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.90:41046 -> 192.168.45.3:4897
+06/04/2026-09:15:04.332164  [**] [1:2400024:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 25 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 130.12.180.134:58260 -> 192.168.45.3:29554
+06/04/2026-09:16:33.176463  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.31:46740 -> 192.168.45.3:61916
+06/04/2026-09:18:32.889094  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.9:55427 -> 192.168.45.3:1006
+06/04/2026-09:20:05.885363  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.237:13839 -> 192.168.45.3:22422
+06/04/2026-09:20:56.875706  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.234:26047 -> 192.168.45.3:59998
+06/04/2026-09:22:21.234694  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.104:49707 -> 192.168.45.3:5904
+06/04/2026-09:22:50.304479  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 134.209.252.42:57572 -> 192.168.45.3:3306
+06/04/2026-09:22:51.326701  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 134.209.252.42:57572 -> 192.168.45.3:3306
+06/04/2026-09:22:52.351381  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 134.209.252.42:57572 -> 192.168.45.3:3306
+06/04/2026-09:22:53.376101  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 134.209.252.42:57572 -> 192.168.45.3:3306
+06/04/2026-09:22:54.400037  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 134.209.252.42:57572 -> 192.168.45.3:3306
+06/04/2026-09:22:54.400039  [**] [1:2001219:20] ET SCAN Potential SSH Scan [**] [Classification: Attempted Information Leak] [Priority: 2] {TCP} 134.209.252.42:54066 -> 192.168.45.3:22
+06/04/2026-09:23:16.151451  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:50432 -> 192.168.45.3:2222
+06/04/2026-09:23:16.151451  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:50432 -> 192.168.45.3:2222
+06/04/2026-09:25:30.837782  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.29:46626 -> 192.168.45.3:15406
+06/04/2026-09:26:52.951478  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.146:8748 -> 192.168.45.3:57383
+06/04/2026-09:28:02.613212  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.32:57032 -> 192.168.45.3:62057
+06/04/2026-09:29:52.401029  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.53:47603 -> 192.168.45.3:3390
+06/04/2026-09:30:11.712390  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.118:28512 -> 192.168.45.3:8899
+06/04/2026-09:31:16.018003  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.169:40604 -> 192.168.45.3:10002
+06/04/2026-09:34:39.922504  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 198.235.24.80:54098 -> 192.168.45.3:5353
+06/04/2026-09:35:57.707928  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.144:59342 -> 192.168.45.3:27208
+06/04/2026-09:37:32.959574  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 121.43.109.168:46177 -> 192.168.45.3:1433
+06/04/2026-09:39:26.988283  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 65.49.20.77:48592 -> 192.168.45.3:11
+06/04/2026-09:41:16.463602  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 45.174.75.43:10000 -> 192.168.45.3:1433
+06/04/2026-09:41:30.454967  [**] [1:2400009:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 10 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 77.90.185.207:46915 -> 192.168.45.3:3548
+06/04/2026-09:41:32.129397  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.244:49840 -> 192.168.45.3:9185
+06/04/2026-09:44:42.220267  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.43:49048 -> 192.168.45.3:5900
+06/04/2026-09:44:42.220267  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.43:49048 -> 192.168.45.3:5900
+06/04/2026-09:46:13.184307  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.186.246:64030 -> 192.168.45.3:27036
+06/04/2026-09:47:14.723742  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.57:52154 -> 192.168.45.3:10010
+06/04/2026-09:48:06.958524  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.12:55503 -> 192.168.45.3:20087
+06/04/2026-09:50:11.809375  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.224.18:7099 -> 192.168.45.3:47809
+06/04/2026-09:50:21.048063  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.186.220:38225 -> 192.168.45.3:19302
+06/04/2026-09:51:01.219010  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.116:49748 -> 192.168.45.3:2001
+06/04/2026-09:54:43.796478  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.30:57327 -> 192.168.45.3:55730
+06/04/2026-09:55:11.549634  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.159:24183 -> 192.168.45.3:18015
+06/04/2026-09:56:31.184289  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.10:55461 -> 192.168.45.3:2549
+06/04/2026-10:00:34.427116  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.245:11440 -> 192.168.45.3:5643
+06/04/2026-10:01:31.813983  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.8:55386 -> 192.168.45.3:8111
+06/04/2026-10:05:01.621006  [**] [1:2400004:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 5 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.42.88.54:60001 -> 192.168.45.3:9605
+06/04/2026-10:05:42.264409  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.186.239:11264 -> 192.168.45.3:5349
+06/04/2026-10:06:13.403743  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.7:46505 -> 192.168.45.3:32240
+06/04/2026-10:11:14.421791  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.87:38522 -> 192.168.45.3:1080
+06/04/2026-10:11:14.421791  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.87:38522 -> 192.168.45.3:1080
+06/04/2026-10:12:52.064738  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.248:24970 -> 192.168.45.3:16328
+06/04/2026-10:14:14.385303  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40001 -> 192.168.45.3:443
+06/04/2026-10:14:14.385303  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.67:40001 -> 192.168.45.3:443
+06/04/2026-10:15:00.825586  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.90:41046 -> 192.168.45.3:53938
+06/04/2026-10:17:41.813791  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.54:53686 -> 192.168.45.3:2096
+06/04/2026-10:18:02.568417  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.90:50843 -> 192.168.45.3:7070
+06/04/2026-10:19:08.823789  [**] [1:2010935:3] ET SCAN Suspicious inbound to MSSQL port 1433 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 123.56.110.252:48942 -> 192.168.45.3:1433
+06/04/2026-10:19:59.954392  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.134:12029 -> 192.168.45.3:8703
+06/04/2026-10:20:12.099805  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.31:46740 -> 192.168.45.3:52661
+06/04/2026-10:20:54.777277  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.188:55318 -> 192.168.45.3:5022
+06/04/2026-10:22:17.734264  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 100.29.192.40:31327 -> 192.168.45.3:502
+06/04/2026-10:24:30.017883  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.211:30856 -> 192.168.45.3:1234
+06/04/2026-10:27:23.815233  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:50432 -> 192.168.45.3:22222
+06/04/2026-10:27:23.815233  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.148.10.230:50432 -> 192.168.45.3:22222
+06/04/2026-10:27:31.685583  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.29:46626 -> 192.168.45.3:59440
+06/04/2026-10:27:43.230328  [**] [1:2010937:3] ET SCAN Suspicious inbound to mySQL port 3306 [**] [Classification: Potentially Bad Traffic] [Priority: 2] {TCP} 104.248.184.28:56115 -> 192.168.45.3:3306
+06/04/2026-10:28:08.057943  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:39922
+06/04/2026-10:28:08.057943  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.91:55347 -> 192.168.45.3:39922
+06/04/2026-10:29:05.398487  [**] [1:2500000:7642] ET COMPROMISED Known Compromised or Hostile Host Traffic group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 109.122.217.21:51165 -> 192.168.45.3:53003
+06/04/2026-10:29:33.037192  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.96:49707 -> 192.168.45.3:50002
+06/04/2026-10:29:49.941496  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.245:50688 -> 192.168.45.3:61616
+06/04/2026-10:30:57.264120  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.42:50338 -> 192.168.45.3:37443
+06/04/2026-10:31:56.570879  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.225:3971 -> 192.168.45.3:5349
+06/04/2026-10:33:01.218428  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.154.87:58914 -> 192.168.45.3:8427
+06/04/2026-10:35:42.283513  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.169:40604 -> 192.168.45.3:3393
+06/04/2026-10:49:56.688109  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.123:24478 -> 192.168.45.3:32706
+06/04/2026-10:51:57.751198  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 66.132.172.246:20755 -> 192.168.45.3:8323
+06/04/2026-10:52:22.708942  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.253:10633 -> 192.168.45.3:1912
+06/04/2026-10:56:59.990971  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.43:49048 -> 192.168.45.3:5910
+06/04/2026-10:56:59.990971  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.43:49048 -> 192.168.45.3:5910
+06/04/2026-10:57:16.836797  [**] [1:2400012:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 13 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 88.210.63.69:50110 -> 192.168.45.3:44354
+06/04/2026-10:58:06.460551  [**] [1:2400014:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 15 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 92.118.39.97:52611 -> 192.168.45.3:8696
+06/04/2026-10:58:13.426877  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.10:55461 -> 192.168.45.3:20199
+06/04/2026-10:58:49.994058  [**] [1:2400024:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 25 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 130.12.180.34:55351 -> 192.168.45.3:1723
+06/04/2026-10:59:23.202270  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.53:47603 -> 192.168.45.3:8088
+06/04/2026-11:02:05.312937  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.8:55386 -> 192.168.45.3:9696
+06/04/2026-11:02:19.994193  [**] [1:2400042:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 43 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 195.178.110.237:56929 -> 192.168.45.3:2360
+06/04/2026-11:03:59.169003  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.43:51865 -> 192.168.45.3:888
+06/04/2026-11:04:19.114251  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.69:49901 -> 192.168.45.3:20257
+06/04/2026-11:05:04.577847  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.238:44107 -> 192.168.45.3:1911
+06/04/2026-11:05:19.808148  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.241:13152 -> 192.168.45.3:1311
+06/04/2026-11:11:15.314181  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.224.19:17045 -> 192.168.45.3:7000
+06/04/2026-11:12:34.073263  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.9:55427 -> 192.168.45.3:4044
+06/04/2026-11:12:47.940816  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.157:15448 -> 192.168.45.3:62276
+06/04/2026-11:13:07.002413  [**] [1:2500000:7642] ET COMPROMISED Known Compromised or Hostile Host Traffic group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 109.122.217.21:57152 -> 192.168.45.3:53499
+06/04/2026-11:15:08.381771  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.90:41046 -> 192.168.45.3:22914
+06/04/2026-11:15:18.708741  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.172.117:18098 -> 192.168.45.3:58662
+06/04/2026-11:16:19.709935  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.230:1761 -> 192.168.45.3:33692
+06/04/2026-11:17:13.798492  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.118:56492 -> 192.168.45.3:2084
+06/04/2026-11:17:41.412960  [**] [1:2400006:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 7 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 45.142.193.30:57327 -> 192.168.45.3:28447
+06/04/2026-11:17:45.868224  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.67:52584 -> 192.168.45.3:5985
+06/04/2026-11:19:03.530193  [**] [1:2400033:4726] ET DROP Spamhaus DROP Listed Traffic Inbound group 34 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.82:56555 -> 192.168.45.3:1461
+06/04/2026-11:19:03.530193  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 176.65.139.82:56555 -> 192.168.45.3:1461
+06/04/2026-11:19:28.912949  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 198.235.24.80:51752 -> 192.168.45.3:28080
+06/04/2026-11:19:37.054669  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {UDP} 65.49.20.86:39687 -> 192.168.45.3:5683
+06/04/2026-11:19:54.537046  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.235:37919 -> 192.168.45.3:18743
+06/04/2026-11:21:26.923106  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 100.29.192.109:11966 -> 192.168.45.3:389
+06/04/2026-11:24:02.148182  [**] [1:2402000:7758] ET DROP Dshield Block Listed Source group 1 [**] [Classification: Misc Attack] [Priority: 2] {TCP} 66.132.186.224:34501 -> 192.168.45.3:50594
