@@ -98,13 +98,14 @@ pip install -r requirements.txt
 ├── notebooks/
 │   └── analysis.ipynb
 ├── data/
-│   └── README.md          # 데이터 출처 설명 (원본 미포함)
+│   ├── sample_alerts.log
+│   └── sample_alerts_df.csv
 └── results/
     ├── cluster_scatter.png
-    ├── silhouette_by_k.png
-    ├── cluster_heatmap.png
-    ├── top_ports.png
-    └── daily_trend.png
+    ├── number_of_ips_per_cluster.png
+    ├── attack_behavior_heatmap.png
+    ├── most_targeted_ports.png
+    └── daily_attack_trend.png
 ```
 
 ## License
