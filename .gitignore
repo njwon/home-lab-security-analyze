@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+.env
+
+# 원본 로그 / 민감 데이터
+data/*.log
+data/*.csv
+!data/sample*.csv

@@ -1,13 +1,13 @@
 ![Python](https://img.shields.io/badge/Python-3.10-blue)
 ![scikit--learn](https://img.shields.io/badge/scikit--learn-KMeans-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/YOUR_REPO/blob/main/notebooks/analysis.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/njwon/home-lab-security-analyze/blob/main/notebooks/analysis.ipynb)
 
 # 🔍 홈서버 공격 로그 비지도학습 분석
 
 실제 홈랩(Proxmox + pfSense + Suricata)에서 28일간 수집한 약 8만 건의 IDS 경보 로그를, K-means로 **공격자 행동 유형 7개 군집**으로 자동 분류한 프로젝트입니다. (Silhouette Score 0.632)
 
-![cluster preview](results/cluster_scatter.png)
+![cluster preview](results/공격자 행동 군집.png)
 
 ## 목차
 - [개요](#개요)
